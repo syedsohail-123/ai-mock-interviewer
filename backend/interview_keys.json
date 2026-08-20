@@ -1,0 +1,3051 @@
+{
+  "INT-8440-EW": {
+    "access_key": "INT-8440-EW",
+    "profile": {
+      "id": null,
+      "personal_info": {
+        "name": "Alex Morgan",
+        "email": "alex.morgan@example.com",
+        "phone": "+1 (555) 234-5678",
+        "location": "San Francisco, CA",
+        "linkedin": "https://www.linkedin.com/in/-syedsohailahmed/",
+        "github": ""
+      },
+      "summary": "Results-driven Senior Software & Cloud Engineer with 6+ years of experience designing scalable microservices, automating multi-region cloud infrastructure, and establishing high-velocity CI/CD pipelines. Proven track record in boosting system throughput, reducing cloud operational expenditure by 28%, and maintaining 99.99% production uptime.",
+      "skills": [
+        "Cloud & Infrastructure",
+        "Python",
+        "Go",
+        "TypeScript",
+        "React",
+        "Node.js",
+        "Next.js",
+        "PostgreSQL",
+        "Redis",
+        "MongoDB",
+        "Prometheus",
+        "Grafana",
+        "Datadog"
+      ],
+      "experience": [
+        {
+          "role": "Senior Software Developer",
+          "company": "Apex Cloud Technologies",
+          "duration": "2022 - Present",
+          "description": "\u2022 Spearheaded core feature architecture and delivery for Senior Software Developer, reducing production latency and bugs by 35%.\n\u2022 Optimized system performance and database queries, accelerating endpoint response times by 40%.\n\u2022 Optimized system performance and database queries, accelerating endpoint response times by 40%.\n\u2022 Engineered scalable, fault-tolerant solutions supporting high-traffic production workloads with 99.99% uptime.",
+          "technologies": []
+        }
+      ],
+      "education": [
+        {
+          "degree": "Bachelor of Science in Computer Science",
+          "institution": "University of California, Berkeley",
+          "year": "2015 - 2019",
+          "grade": null
+        }
+      ],
+      "projects": [
+        {
+          "title": "Automated Cloud Infrastructure Orchestrator",
+          "description": "\u2022 Built a lightweight distributed cluster provisioning engine enabling 1-click ephemeral development environments, saving 15+ engineering hours per week.",
+          "technologies": [
+            "Kubernetes",
+            "Terraform",
+            "Go",
+            "AWS"
+          ],
+          "link": "https://github.com/alexmorgan/cloud-orchestrator"
+        },
+        {
+          "title": "Real-Time Distributed Telemetry Pipeline",
+          "description": "\u2022 Engineered streaming event pipeline processing 10,000+ events/sec with fault-tolerant dead-letter queue recovery.",
+          "technologies": [
+            "Python",
+            "FastAPI",
+            "Kafka",
+            "Redis"
+          ],
+          "link": "https://github.com/alexmorgan/telemetry-pipeline"
+        }
+      ],
+      "certifications": [],
+      "achievements": [],
+      "raw_text": null
+    },
+    "config": {
+      "target_role": "Senior Software Developer",
+      "experience_level": "Experienced",
+      "difficulty": "Intermediate",
+      "interview_type": "Mixed",
+      "max_questions": 7
+    },
+    "resume_data": {
+      "id": "resume-1",
+      "title": "Alex Morgan - Senior DevOps Engineer",
+      "basics": {
+        "name": "Alex Morgan",
+        "headline": "Senior Software Developer",
+        "email": "alex.morgan@example.com",
+        "phone": "+1 (555) 234-5678",
+        "location": "San Francisco, CA",
+        "website": "",
+        "portfolioUrl": "https://syedsohail-123.github.io/portfolio-github/",
+        "linkedin": "https://www.linkedin.com/in/-syedsohailahmed/",
+        "github": "",
+        "photoUrl": "",
+        "summary": "Results-driven Senior Software & Cloud Engineer with 6+ years of experience designing scalable microservices, automating multi-region cloud infrastructure, and establishing high-velocity CI/CD pipelines. Proven track record in boosting system throughput, reducing cloud operational expenditure by 28%, and maintaining 99.99% production uptime."
+      },
+      "sections": {
+        "summary": {
+          "id": "summary",
+          "title": "Professional Summary",
+          "type": "custom",
+          "visible": true,
+          "items": []
+        },
+        "experience": {
+          "id": "experience",
+          "title": "Work Experience",
+          "type": "experience",
+          "visible": true,
+          "items": [
+            {
+              "id": "exp-1",
+              "title": "Senior Software Developer",
+              "subtitle": "Apex Cloud Technologies",
+              "date": "2022 - Present",
+              "location": "San Francisco, CA (Hybrid)",
+              "description": "\u2022 Spearheaded core feature architecture and delivery for Senior Software Developer, reducing production latency and bugs by 35%.\n\u2022 Optimized system performance and database queries, accelerating endpoint response times by 40%.\n\u2022 Optimized system performance and database queries, accelerating endpoint response times by 40%.\n\u2022 Engineered scalable, fault-tolerant solutions supporting high-traffic production workloads with 99.99% uptime."
+            }
+          ]
+        },
+        "skills": {
+          "id": "skills",
+          "title": "Technical Skills",
+          "type": "skills",
+          "visible": true,
+          "items": [
+            {
+              "id": "sk-1",
+              "title": "Cloud & Infrastructure",
+              "tags": []
+            },
+            {
+              "id": "sk-2",
+              "title": "Languages & Frameworks",
+              "tags": [
+                "Python",
+                "Go",
+                "TypeScript",
+                "React",
+                "Node.js",
+                "Next.js"
+              ]
+            },
+            {
+              "id": "sk-3",
+              "title": "Databases & Observability",
+              "tags": [
+                "PostgreSQL",
+                "Redis",
+                "MongoDB",
+                "Prometheus",
+                "Grafana",
+                "Datadog"
+              ]
+            }
+          ]
+        },
+        "projects": {
+          "id": "projects",
+          "title": "Key Projects",
+          "type": "projects",
+          "visible": true,
+          "items": [
+            {
+              "id": "proj-1",
+              "title": "Automated Cloud Infrastructure Orchestrator",
+              "subtitle": "Open Source Infrastructure as Code Service",
+              "date": "2023",
+              "url": "https://github.com/alexmorgan/cloud-orchestrator",
+              "tags": [
+                "Kubernetes",
+                "Terraform",
+                "Go",
+                "AWS"
+              ],
+              "description": "\u2022 Built a lightweight distributed cluster provisioning engine enabling 1-click ephemeral development environments, saving 15+ engineering hours per week."
+            },
+            {
+              "id": "proj-2",
+              "title": "Real-Time Distributed Telemetry Pipeline",
+              "subtitle": "High-Throughput Streaming Event Ingest",
+              "date": "2022",
+              "url": "https://github.com/alexmorgan/telemetry-pipeline",
+              "tags": [
+                "Python",
+                "FastAPI",
+                "Kafka",
+                "Redis"
+              ],
+              "description": "\u2022 Engineered streaming event pipeline processing 10,000+ events/sec with fault-tolerant dead-letter queue recovery."
+            }
+          ]
+        },
+        "education": {
+          "id": "education",
+          "title": "Education",
+          "type": "education",
+          "visible": true,
+          "items": [
+            {
+              "id": "edu-1",
+              "title": "Bachelor of Science in Computer Science",
+              "subtitle": "University of California, Berkeley",
+              "date": "2015 - 2019",
+              "location": "Berkeley, CA"
+            }
+          ]
+        },
+        "languages": {
+          "id": "languages",
+          "title": "Languages",
+          "type": "languages",
+          "visible": true,
+          "items": []
+        }
+      },
+      "metadata": {
+        "colors": {
+          "primary": "#334155",
+          "background": "#ffffff",
+          "text": "#1e293b",
+          "sidebar": "#f1f5f9",
+          "sidebarText": "#0f172a"
+        },
+        "typography": {
+          "headingSize": 14,
+          "bodySize": 10,
+          "fontFamily": "Inter, sans-serif",
+          "lineHeight": 1.5
+        },
+        "page": {
+          "size": "A4",
+          "sidebarWidth": 32,
+          "hideIcons": false,
+          "hideLinkUnderline": true
+        },
+        "layout": {
+          "main": [
+            "summary",
+            "experience",
+            "projects"
+          ],
+          "sidebar": [
+            "skills",
+            "education",
+            "languages"
+          ]
+        }
+      }
+    },
+    "created_ts": 1787241506.5789196,
+    "expires_at_ts": 1787242106.5789201,
+    "created_at": "2026-08-17T11:15:41.620440"
+  },
+  "INT-9073-YQ": {
+    "access_key": "INT-9073-YQ",
+    "profile": {
+      "id": null,
+      "personal_info": {
+        "name": "Alex Morgan",
+        "email": "alex.morgan@example.com",
+        "phone": "+1 (555) 234-5678",
+        "location": "San Francisco, CA",
+        "linkedin": "https://www.linkedin.com/in/-syedsohailahmed/",
+        "github": ""
+      },
+      "summary": "Results-driven Senior Software & Cloud Engineer with 6+ years of experience designing scalable microservices, automating multi-region cloud infrastructure, and establishing high-velocity CI/CD pipelines. Proven track record in boosting system throughput, reducing cloud operational expenditure by 28%, and maintaining 99.99% production uptime.",
+      "skills": [
+        "Cloud & Infrastructure",
+        "Python",
+        "Go",
+        "TypeScript",
+        "React",
+        "Node.js",
+        "Next.js",
+        "PostgreSQL",
+        "Redis",
+        "MongoDB",
+        "Prometheus",
+        "Grafana",
+        "Datadog"
+      ],
+      "experience": [
+        {
+          "role": "Senior Software Developer",
+          "company": "Apex Cloud Technologies",
+          "duration": "2022 - Present",
+          "description": "\u2022 Spearheaded core feature architecture and delivery for Senior Software Developer, reducing production latency and bugs by 35%.\n\u2022 Optimized system performance and database queries, accelerating endpoint response times by 40%.\n\u2022 Optimized system performance and database queries, accelerating endpoint response times by 40%.\n\u2022 Engineered scalable, fault-tolerant solutions supporting high-traffic production workloads with 99.99% uptime.",
+          "technologies": []
+        }
+      ],
+      "education": [
+        {
+          "degree": "Bachelor of Science in Computer Science",
+          "institution": "University of California, Berkeley",
+          "year": "2015 - 2019",
+          "grade": null
+        }
+      ],
+      "projects": [
+        {
+          "title": "Automated Cloud Infrastructure Orchestrator",
+          "description": "\u2022 Built a lightweight distributed cluster provisioning engine enabling 1-click ephemeral development environments, saving 15+ engineering hours per week.",
+          "technologies": [
+            "Kubernetes",
+            "Terraform",
+            "Go",
+            "AWS"
+          ],
+          "link": "https://github.com/alexmorgan/cloud-orchestrator"
+        },
+        {
+          "title": "Real-Time Distributed Telemetry Pipeline",
+          "description": "\u2022 Engineered streaming event pipeline processing 10,000+ events/sec with fault-tolerant dead-letter queue recovery.",
+          "technologies": [
+            "Python",
+            "FastAPI",
+            "Kafka",
+            "Redis"
+          ],
+          "link": "https://github.com/alexmorgan/telemetry-pipeline"
+        }
+      ],
+      "certifications": [],
+      "achievements": [],
+      "raw_text": null
+    },
+    "config": {
+      "target_role": "Senior Software Developer",
+      "experience_level": "Experienced",
+      "difficulty": "Intermediate",
+      "interview_type": "Mixed",
+      "max_questions": 7
+    },
+    "resume_data": {
+      "id": "resume-1",
+      "title": "Alex Morgan - Senior DevOps Engineer",
+      "basics": {
+        "name": "Alex Morgan",
+        "headline": "Senior Software Developer",
+        "email": "alex.morgan@example.com",
+        "phone": "+1 (555) 234-5678",
+        "location": "San Francisco, CA",
+        "website": "",
+        "portfolioUrl": "https://syedsohail-123.github.io/portfolio-github/",
+        "linkedin": "https://www.linkedin.com/in/-syedsohailahmed/",
+        "github": "",
+        "photoUrl": "",
+        "summary": "Results-driven Senior Software & Cloud Engineer with 6+ years of experience designing scalable microservices, automating multi-region cloud infrastructure, and establishing high-velocity CI/CD pipelines. Proven track record in boosting system throughput, reducing cloud operational expenditure by 28%, and maintaining 99.99% production uptime."
+      },
+      "sections": {
+        "summary": {
+          "id": "summary",
+          "title": "Professional Summary",
+          "type": "custom",
+          "visible": true,
+          "items": []
+        },
+        "experience": {
+          "id": "experience",
+          "title": "Work Experience",
+          "type": "experience",
+          "visible": true,
+          "items": [
+            {
+              "id": "exp-1",
+              "title": "Senior Software Developer",
+              "subtitle": "Apex Cloud Technologies",
+              "date": "2022 - Present",
+              "location": "San Francisco, CA (Hybrid)",
+              "description": "\u2022 Spearheaded core feature architecture and delivery for Senior Software Developer, reducing production latency and bugs by 35%.\n\u2022 Optimized system performance and database queries, accelerating endpoint response times by 40%.\n\u2022 Optimized system performance and database queries, accelerating endpoint response times by 40%.\n\u2022 Engineered scalable, fault-tolerant solutions supporting high-traffic production workloads with 99.99% uptime."
+            }
+          ]
+        },
+        "skills": {
+          "id": "skills",
+          "title": "Technical Skills",
+          "type": "skills",
+          "visible": true,
+          "items": [
+            {
+              "id": "sk-1",
+              "title": "Cloud & Infrastructure",
+              "tags": []
+            },
+            {
+              "id": "sk-2",
+              "title": "Languages & Frameworks",
+              "tags": [
+                "Python",
+                "Go",
+                "TypeScript",
+                "React",
+                "Node.js",
+                "Next.js"
+              ]
+            },
+            {
+              "id": "sk-3",
+              "title": "Databases & Observability",
+              "tags": [
+                "PostgreSQL",
+                "Redis",
+                "MongoDB",
+                "Prometheus",
+                "Grafana",
+                "Datadog"
+              ]
+            }
+          ]
+        },
+        "projects": {
+          "id": "projects",
+          "title": "Key Projects",
+          "type": "projects",
+          "visible": true,
+          "items": [
+            {
+              "id": "proj-1",
+              "title": "Automated Cloud Infrastructure Orchestrator",
+              "subtitle": "Open Source Infrastructure as Code Service",
+              "date": "2023",
+              "url": "https://github.com/alexmorgan/cloud-orchestrator",
+              "tags": [
+                "Kubernetes",
+                "Terraform",
+                "Go",
+                "AWS"
+              ],
+              "description": "\u2022 Built a lightweight distributed cluster provisioning engine enabling 1-click ephemeral development environments, saving 15+ engineering hours per week."
+            },
+            {
+              "id": "proj-2",
+              "title": "Real-Time Distributed Telemetry Pipeline",
+              "subtitle": "High-Throughput Streaming Event Ingest",
+              "date": "2022",
+              "url": "https://github.com/alexmorgan/telemetry-pipeline",
+              "tags": [
+                "Python",
+                "FastAPI",
+                "Kafka",
+                "Redis"
+              ],
+              "description": "\u2022 Engineered streaming event pipeline processing 10,000+ events/sec with fault-tolerant dead-letter queue recovery."
+            }
+          ]
+        },
+        "education": {
+          "id": "education",
+          "title": "Education",
+          "type": "education",
+          "visible": true,
+          "items": [
+            {
+              "id": "edu-1",
+              "title": "Bachelor of Science in Computer Science",
+              "subtitle": "University of California, Berkeley",
+              "date": "2015 - 2019",
+              "location": "Berkeley, CA"
+            }
+          ]
+        },
+        "languages": {
+          "id": "languages",
+          "title": "Languages",
+          "type": "languages",
+          "visible": true,
+          "items": []
+        }
+      },
+      "metadata": {
+        "colors": {
+          "primary": "#334155",
+          "background": "#ffffff",
+          "text": "#1e293b",
+          "sidebar": "#f1f5f9",
+          "sidebarText": "#0f172a"
+        },
+        "typography": {
+          "headingSize": 14,
+          "bodySize": 10,
+          "fontFamily": "Inter, sans-serif",
+          "lineHeight": 1.5
+        },
+        "page": {
+          "size": "A4",
+          "sidebarWidth": 32,
+          "hideIcons": false,
+          "hideLinkUnderline": true
+        },
+        "layout": {
+          "main": [
+            "summary",
+            "experience",
+            "projects"
+          ],
+          "sidebar": [
+            "skills",
+            "education",
+            "languages"
+          ]
+        }
+      }
+    },
+    "created_ts": 1787241506.5789263,
+    "expires_at_ts": 1787242106.5789268,
+    "created_at": "2026-08-17T11:18:26.187601"
+  },
+  "INT-6224-FQ": {
+    "access_key": "INT-6224-FQ",
+    "profile": {
+      "id": null,
+      "personal_info": {
+        "name": "Alex Morgan",
+        "email": "alex.morgan@example.com",
+        "phone": "9390634592",
+        "location": "San Francisco, CA",
+        "linkedin": "https://www.linkedin.com/in/-syedsohailahmed/",
+        "github": ""
+      },
+      "summary": "Results-driven Senior Software & Cloud Engineer with 6+ years of experience designing scalable microservices, automating multi-region cloud infrastructure, and establishing high-velocity CI/CD pipelines. Proven track record in boosting system throughput, reducing cloud operational expenditure by 28%, and maintaining 99.99% production uptime.",
+      "skills": [
+        "Cloud & Infrastructure",
+        "Python",
+        "Go",
+        "TypeScript",
+        "React",
+        "Node.js",
+        "Next.js",
+        "PostgreSQL",
+        "Redis",
+        "MongoDB",
+        "Prometheus",
+        "Grafana",
+        "Datadog"
+      ],
+      "experience": [
+        {
+          "role": "Senior Software Developer",
+          "company": "Apex Cloud Technologies",
+          "duration": "2022 - Present",
+          "description": "\u2022 Spearheaded core feature architecture and delivery for Senior Software Developer, reducing production latency and bugs by 35%.\n\u2022 Optimized system performance and database queries, accelerating endpoint response times by 40%.\n\u2022 Optimized system performance and database queries, accelerating endpoint response times by 40%.\n\u2022 Engineered scalable, fault-tolerant solutions supporting high-traffic production workloads with 99.99% uptime.",
+          "technologies": []
+        }
+      ],
+      "education": [
+        {
+          "degree": "Bachelor of Science in Computer Science",
+          "institution": "University of California, Berkeley",
+          "year": "2015 - 2019",
+          "grade": null
+        }
+      ],
+      "projects": [
+        {
+          "title": "Automated Cloud Infrastructure Orchestrator",
+          "description": "\u2022 Built a lightweight distributed cluster provisioning engine enabling 1-click ephemeral development environments, saving 15+ engineering hours per week.",
+          "technologies": [
+            "Kubernetes",
+            "Terraform",
+            "Go",
+            "AWS"
+          ],
+          "link": "https://github.com/alexmorgan/cloud-orchestrator"
+        },
+        {
+          "title": "Real-Time Distributed Telemetry Pipeline",
+          "description": "\u2022 Engineered streaming event pipeline processing 10,000+ events/sec with fault-tolerant dead-letter queue recovery.",
+          "technologies": [
+            "Python",
+            "FastAPI",
+            "Kafka",
+            "Redis"
+          ],
+          "link": "https://github.com/alexmorgan/telemetry-pipeline"
+        }
+      ],
+      "certifications": [],
+      "achievements": [],
+      "raw_text": null
+    },
+    "config": {
+      "target_role": "Senior Software Developer",
+      "experience_level": "Experienced",
+      "difficulty": "Intermediate",
+      "interview_type": "Mixed",
+      "max_questions": 7
+    },
+    "resume_data": {
+      "id": "resume-1",
+      "title": "Alex Morgan - Senior DevOps Engineer",
+      "basics": {
+        "name": "Alex Morgan",
+        "headline": "Senior Software Developer",
+        "email": "alex.morgan@example.com",
+        "phone": "9390634592",
+        "location": "San Francisco, CA",
+        "website": "",
+        "portfolioUrl": "https://syedsohail-123.github.io/portfolio-github/",
+        "linkedin": "https://www.linkedin.com/in/-syedsohailahmed/",
+        "github": "",
+        "photoUrl": "",
+        "summary": "Results-driven Senior Software & Cloud Engineer with 6+ years of experience designing scalable microservices, automating multi-region cloud infrastructure, and establishing high-velocity CI/CD pipelines. Proven track record in boosting system throughput, reducing cloud operational expenditure by 28%, and maintaining 99.99% production uptime."
+      },
+      "sections": {
+        "summary": {
+          "id": "summary",
+          "title": "Professional Summary",
+          "type": "custom",
+          "visible": true,
+          "items": []
+        },
+        "experience": {
+          "id": "experience",
+          "title": "Work Experience",
+          "type": "experience",
+          "visible": true,
+          "items": [
+            {
+              "id": "exp-1",
+              "title": "Senior Software Developer",
+              "subtitle": "Apex Cloud Technologies",
+              "date": "2022 - Present",
+              "location": "San Francisco, CA (Hybrid)",
+              "description": "\u2022 Spearheaded core feature architecture and delivery for Senior Software Developer, reducing production latency and bugs by 35%.\n\u2022 Optimized system performance and database queries, accelerating endpoint response times by 40%.\n\u2022 Optimized system performance and database queries, accelerating endpoint response times by 40%.\n\u2022 Engineered scalable, fault-tolerant solutions supporting high-traffic production workloads with 99.99% uptime."
+            }
+          ]
+        },
+        "skills": {
+          "id": "skills",
+          "title": "Technical Skills",
+          "type": "skills",
+          "visible": true,
+          "items": [
+            {
+              "id": "sk-1",
+              "title": "Cloud & Infrastructure",
+              "tags": []
+            },
+            {
+              "id": "sk-2",
+              "title": "Languages & Frameworks",
+              "tags": [
+                "Python",
+                "Go",
+                "TypeScript",
+                "React",
+                "Node.js",
+                "Next.js"
+              ]
+            },
+            {
+              "id": "sk-3",
+              "title": "Databases & Observability",
+              "tags": [
+                "PostgreSQL",
+                "Redis",
+                "MongoDB",
+                "Prometheus",
+                "Grafana",
+                "Datadog"
+              ]
+            }
+          ]
+        },
+        "projects": {
+          "id": "projects",
+          "title": "Key Projects",
+          "type": "projects",
+          "visible": true,
+          "items": [
+            {
+              "id": "proj-1",
+              "title": "Automated Cloud Infrastructure Orchestrator",
+              "subtitle": "Open Source Infrastructure as Code Service",
+              "date": "2023",
+              "url": "https://github.com/alexmorgan/cloud-orchestrator",
+              "tags": [
+                "Kubernetes",
+                "Terraform",
+                "Go",
+                "AWS"
+              ],
+              "description": "\u2022 Built a lightweight distributed cluster provisioning engine enabling 1-click ephemeral development environments, saving 15+ engineering hours per week."
+            },
+            {
+              "id": "proj-2",
+              "title": "Real-Time Distributed Telemetry Pipeline",
+              "subtitle": "High-Throughput Streaming Event Ingest",
+              "date": "2022",
+              "url": "https://github.com/alexmorgan/telemetry-pipeline",
+              "tags": [
+                "Python",
+                "FastAPI",
+                "Kafka",
+                "Redis"
+              ],
+              "description": "\u2022 Engineered streaming event pipeline processing 10,000+ events/sec with fault-tolerant dead-letter queue recovery."
+            }
+          ]
+        },
+        "education": {
+          "id": "education",
+          "title": "Education",
+          "type": "education",
+          "visible": true,
+          "items": [
+            {
+              "id": "edu-1",
+              "title": "Bachelor of Science in Computer Science",
+              "subtitle": "University of California, Berkeley",
+              "date": "2015 - 2019",
+              "location": "Berkeley, CA"
+            }
+          ]
+        },
+        "languages": {
+          "id": "languages",
+          "title": "Languages",
+          "type": "languages",
+          "visible": true,
+          "items": []
+        }
+      },
+      "metadata": {
+        "colors": {
+          "primary": "#334155",
+          "background": "#ffffff",
+          "text": "#1e293b",
+          "sidebar": "#f1f5f9",
+          "sidebarText": "#0f172a"
+        },
+        "typography": {
+          "headingSize": 14,
+          "bodySize": 10,
+          "fontFamily": "Inter, sans-serif",
+          "lineHeight": 1.5
+        },
+        "page": {
+          "size": "A4",
+          "sidebarWidth": 32,
+          "hideIcons": false,
+          "hideLinkUnderline": true
+        },
+        "layout": {
+          "main": [
+            "summary",
+            "experience",
+            "projects"
+          ],
+          "sidebar": [
+            "skills",
+            "education",
+            "languages"
+          ]
+        }
+      }
+    },
+    "created_ts": 1787241506.5789301,
+    "expires_at_ts": 1787242106.5789306,
+    "created_at": "2026-08-17T11:23:27.451733"
+  },
+  "INT-3174-WG": {
+    "access_key": "INT-3174-WG",
+    "profile": {
+      "id": null,
+      "personal_info": {
+        "name": "Alex Morgan",
+        "email": "alex.morgan@example.com",
+        "phone": "9390634592",
+        "location": "San Francisco, CA",
+        "linkedin": "https://www.linkedin.com/in/-syedsohailahmed/",
+        "github": ""
+      },
+      "summary": "Results-driven Senior Software & Cloud Engineer with 6+ years of experience designing scalable microservices, automating multi-region cloud infrastructure, and establishing high-velocity CI/CD pipelines. Proven track record in boosting system throughput, reducing cloud operational expenditure by 28%, and maintaining 99.99% production uptime.",
+      "skills": [
+        "Cloud & Infrastructure",
+        "Python",
+        "Go",
+        "TypeScript",
+        "React",
+        "Node.js",
+        "Next.js",
+        "PostgreSQL",
+        "Redis",
+        "MongoDB",
+        "Prometheus",
+        "Grafana",
+        "Datadog"
+      ],
+      "experience": [
+        {
+          "role": "Senior Software Developer",
+          "company": "Apex Cloud Technologies",
+          "duration": "2022 - Present",
+          "description": "\u2022 Spearheaded core feature architecture and delivery for Senior Software Developer, reducing production latency and bugs by 35%.\n\u2022 Optimized system performance and database queries, accelerating endpoint response times by 40%.\n\u2022 Optimized system performance and database queries, accelerating endpoint response times by 40%.\n\u2022 Engineered scalable, fault-tolerant solutions supporting high-traffic production workloads with 99.99% uptime.",
+          "technologies": []
+        }
+      ],
+      "education": [
+        {
+          "degree": "Bachelor of Science in Computer Science",
+          "institution": "University of California, Berkeley",
+          "year": "2015 - 2019",
+          "grade": null
+        }
+      ],
+      "projects": [
+        {
+          "title": "Automated Cloud Infrastructure Orchestrator",
+          "description": "\u2022 Built a lightweight distributed cluster provisioning engine enabling 1-click ephemeral development environments, saving 15+ engineering hours per week.",
+          "technologies": [
+            "Kubernetes",
+            "Terraform",
+            "Go",
+            "AWS"
+          ],
+          "link": "https://github.com/alexmorgan/cloud-orchestrator"
+        },
+        {
+          "title": "Real-Time Distributed Telemetry Pipeline",
+          "description": "\u2022 Engineered streaming event pipeline processing 10,000+ events/sec with fault-tolerant dead-letter queue recovery.",
+          "technologies": [
+            "Python",
+            "FastAPI",
+            "Kafka",
+            "Redis"
+          ],
+          "link": "https://github.com/alexmorgan/telemetry-pipeline"
+        }
+      ],
+      "certifications": [],
+      "achievements": [],
+      "raw_text": null
+    },
+    "config": {
+      "target_role": "Senior Software Developer",
+      "experience_level": "Experienced",
+      "difficulty": "Intermediate",
+      "interview_type": "Mixed",
+      "max_questions": 7
+    },
+    "resume_data": {
+      "id": "resume-1",
+      "title": "Alex Morgan - Senior DevOps Engineer",
+      "basics": {
+        "name": "Alex Morgan",
+        "headline": "Senior Software Developer",
+        "email": "alex.morgan@example.com",
+        "phone": "9390634592",
+        "location": "San Francisco, CA",
+        "website": "",
+        "portfolioUrl": "https://syedsohail-123.github.io/portfolio-github/",
+        "linkedin": "https://www.linkedin.com/in/-syedsohailahmed/",
+        "github": "",
+        "photoUrl": "",
+        "summary": "Results-driven Senior Software & Cloud Engineer with 6+ years of experience designing scalable microservices, automating multi-region cloud infrastructure, and establishing high-velocity CI/CD pipelines. Proven track record in boosting system throughput, reducing cloud operational expenditure by 28%, and maintaining 99.99% production uptime."
+      },
+      "sections": {
+        "summary": {
+          "id": "summary",
+          "title": "Professional Summary",
+          "type": "custom",
+          "visible": true,
+          "items": []
+        },
+        "experience": {
+          "id": "experience",
+          "title": "Work Experience",
+          "type": "experience",
+          "visible": true,
+          "items": [
+            {
+              "id": "exp-1",
+              "title": "Senior Software Developer",
+              "subtitle": "Apex Cloud Technologies",
+              "date": "2022 - Present",
+              "location": "San Francisco, CA (Hybrid)",
+              "description": "\u2022 Spearheaded core feature architecture and delivery for Senior Software Developer, reducing production latency and bugs by 35%.\n\u2022 Optimized system performance and database queries, accelerating endpoint response times by 40%.\n\u2022 Optimized system performance and database queries, accelerating endpoint response times by 40%.\n\u2022 Engineered scalable, fault-tolerant solutions supporting high-traffic production workloads with 99.99% uptime."
+            }
+          ]
+        },
+        "skills": {
+          "id": "skills",
+          "title": "Technical Skills",
+          "type": "skills",
+          "visible": true,
+          "items": [
+            {
+              "id": "sk-1",
+              "title": "Cloud & Infrastructure",
+              "tags": []
+            },
+            {
+              "id": "sk-2",
+              "title": "Languages & Frameworks",
+              "tags": [
+                "Python",
+                "Go",
+                "TypeScript",
+                "React",
+                "Node.js",
+                "Next.js"
+              ]
+            },
+            {
+              "id": "sk-3",
+              "title": "Databases & Observability",
+              "tags": [
+                "PostgreSQL",
+                "Redis",
+                "MongoDB",
+                "Prometheus",
+                "Grafana",
+                "Datadog"
+              ]
+            }
+          ]
+        },
+        "projects": {
+          "id": "projects",
+          "title": "Key Projects",
+          "type": "projects",
+          "visible": true,
+          "items": [
+            {
+              "id": "proj-1",
+              "title": "Automated Cloud Infrastructure Orchestrator",
+              "subtitle": "Open Source Infrastructure as Code Service",
+              "date": "2023",
+              "url": "https://github.com/alexmorgan/cloud-orchestrator",
+              "tags": [
+                "Kubernetes",
+                "Terraform",
+                "Go",
+                "AWS"
+              ],
+              "description": "\u2022 Built a lightweight distributed cluster provisioning engine enabling 1-click ephemeral development environments, saving 15+ engineering hours per week."
+            },
+            {
+              "id": "proj-2",
+              "title": "Real-Time Distributed Telemetry Pipeline",
+              "subtitle": "High-Throughput Streaming Event Ingest",
+              "date": "2022",
+              "url": "https://github.com/alexmorgan/telemetry-pipeline",
+              "tags": [
+                "Python",
+                "FastAPI",
+                "Kafka",
+                "Redis"
+              ],
+              "description": "\u2022 Engineered streaming event pipeline processing 10,000+ events/sec with fault-tolerant dead-letter queue recovery."
+            }
+          ]
+        },
+        "education": {
+          "id": "education",
+          "title": "Education",
+          "type": "education",
+          "visible": true,
+          "items": [
+            {
+              "id": "edu-1",
+              "title": "Bachelor of Science in Computer Science",
+              "subtitle": "University of California, Berkeley",
+              "date": "2015 - 2019",
+              "location": "Berkeley, CA"
+            }
+          ]
+        },
+        "languages": {
+          "id": "languages",
+          "title": "Languages",
+          "type": "languages",
+          "visible": true,
+          "items": []
+        }
+      },
+      "metadata": {
+        "colors": {
+          "primary": "#334155",
+          "background": "#ffffff",
+          "text": "#1e293b",
+          "sidebar": "#f1f5f9",
+          "sidebarText": "#0f172a"
+        },
+        "typography": {
+          "headingSize": 14,
+          "bodySize": 10,
+          "fontFamily": "Inter, sans-serif",
+          "lineHeight": 1.5
+        },
+        "page": {
+          "size": "A4",
+          "sidebarWidth": 32,
+          "hideIcons": false,
+          "hideLinkUnderline": true
+        },
+        "layout": {
+          "main": [
+            "summary",
+            "experience",
+            "projects"
+          ],
+          "sidebar": [
+            "skills",
+            "education",
+            "languages"
+          ]
+        }
+      }
+    },
+    "created_ts": 1787241506.578933,
+    "expires_at_ts": 1787242106.5789332,
+    "created_at": "2026-08-17T11:29:15.914182"
+  },
+  "INT-1021-UK": {
+    "access_key": "INT-1021-UK",
+    "profile": {
+      "id": null,
+      "personal_info": {
+        "name": "Alex Morgan",
+        "email": "alex@example.com",
+        "phone": null,
+        "location": null,
+        "linkedin": null,
+        "github": null
+      },
+      "summary": "Experienced professional specialized in Flutter, Dart, BLoC, Riverpod.",
+      "skills": [
+        "Flutter",
+        "Dart",
+        "BLoC",
+        "Riverpod",
+        "REST API"
+      ],
+      "experience": [
+        {
+          "role": "Lead Flutter Engineer",
+          "company": "Apex Apps",
+          "duration": "2021-Present",
+          "description": "Built BLoC architecture and real-time WebSockets",
+          "technologies": [
+            "Flutter",
+            "Dart",
+            "BLoC"
+          ]
+        }
+      ],
+      "education": [],
+      "projects": [],
+      "certifications": [],
+      "achievements": [],
+      "raw_text": null
+    },
+    "config": {
+      "target_role": "Senior Flutter & Mobile Architect",
+      "experience_level": "Experienced",
+      "difficulty": "Intermediate",
+      "interview_type": "Mixed",
+      "max_questions": 7
+    },
+    "resume_data": {
+      "basics": {
+        "name": "Alex Morgan",
+        "headline": "Senior Flutter & Mobile Architect",
+        "email": "alex@example.com"
+      },
+      "sections": {
+        "experience": {
+          "items": [
+            {
+              "title": "Lead Flutter Engineer",
+              "subtitle": "Apex Apps",
+              "date": "2021-Present",
+              "description": "Built BLoC architecture and real-time WebSockets",
+              "tags": [
+                "Flutter",
+                "Dart",
+                "BLoC"
+              ]
+            }
+          ]
+        },
+        "skills": {
+          "items": [
+            {
+              "tags": [
+                "Flutter",
+                "Dart",
+                "BLoC",
+                "Riverpod",
+                "REST API"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "created_ts": 1787241506.5789354,
+    "expires_at_ts": 1787242106.5789354,
+    "created_at": "2026-08-17T11:31:32.719698"
+  },
+  "INT-9439-HG": {
+    "access_key": "INT-9439-HG",
+    "profile": {
+      "id": null,
+      "personal_info": {
+        "name": "Alex Morgan",
+        "email": "alex.morgan@example.com",
+        "phone": "9390634592",
+        "location": "San Francisco, CA",
+        "linkedin": "https://www.linkedin.com/in/-syedsohailahmed/",
+        "github": ""
+      },
+      "summary": "Results-driven Senior Software & Cloud Engineer with 6+ years of experience designing scalable microservices, automating multi-region cloud infrastructure, and establishing high-velocity CI/CD pipelines. Proven track record in boosting system throughput, reducing cloud operational expenditure by 28%, and maintaining 99.99% production uptime.",
+      "skills": [
+        "Cloud & Infrastructure",
+        "Python",
+        "Go",
+        "TypeScript",
+        "React",
+        "Node.js",
+        "Next.js",
+        "PostgreSQL",
+        "Redis",
+        "MongoDB",
+        "Prometheus",
+        "Grafana",
+        "Datadog"
+      ],
+      "experience": [
+        {
+          "role": "Senior Software Developer",
+          "company": "Apex Cloud Technologies",
+          "duration": "2022 - Present",
+          "description": "\u2022 Spearheaded core feature architecture and delivery for Senior Software Developer, reducing production latency and bugs by 35%.\n\u2022 Optimized system performance and database queries, accelerating endpoint response times by 40%.\n\u2022 Optimized system performance and database queries, accelerating endpoint response times by 40%.\n\u2022 Engineered scalable, fault-tolerant solutions supporting high-traffic production workloads with 99.99% uptime.",
+          "technologies": []
+        }
+      ],
+      "education": [
+        {
+          "degree": "Bachelor of Science in Computer Science",
+          "institution": "University of California, Berkeley",
+          "year": "2015 - 2019",
+          "grade": null
+        }
+      ],
+      "projects": [
+        {
+          "title": "Automated Cloud Infrastructure Orchestrator",
+          "description": "\u2022 Built a lightweight distributed cluster provisioning engine enabling 1-click ephemeral development environments, saving 15+ engineering hours per week.",
+          "technologies": [
+            "Kubernetes",
+            "Terraform",
+            "Go",
+            "AWS"
+          ],
+          "link": "https://github.com/alexmorgan/cloud-orchestrator"
+        },
+        {
+          "title": "Real-Time Distributed Telemetry Pipeline",
+          "description": "\u2022 Engineered streaming event pipeline processing 10,000+ events/sec with fault-tolerant dead-letter queue recovery.",
+          "technologies": [
+            "Python",
+            "FastAPI",
+            "Kafka",
+            "Redis"
+          ],
+          "link": "https://github.com/alexmorgan/telemetry-pipeline"
+        }
+      ],
+      "certifications": [],
+      "achievements": [],
+      "raw_text": null
+    },
+    "config": {
+      "target_role": "Senior Software Developer",
+      "experience_level": "Experienced",
+      "difficulty": "Intermediate",
+      "interview_type": "Mixed",
+      "max_questions": 7
+    },
+    "resume_data": {
+      "id": "resume-1",
+      "title": "Alex Morgan - Senior DevOps Engineer",
+      "basics": {
+        "name": "Alex Morgan",
+        "headline": "Senior Software Developer",
+        "email": "alex.morgan@example.com",
+        "phone": "9390634592",
+        "location": "San Francisco, CA",
+        "website": "",
+        "portfolioUrl": "https://syedsohail-123.github.io/portfolio-github/",
+        "linkedin": "https://www.linkedin.com/in/-syedsohailahmed/",
+        "github": "",
+        "photoUrl": "",
+        "summary": "Results-driven Senior Software & Cloud Engineer with 6+ years of experience designing scalable microservices, automating multi-region cloud infrastructure, and establishing high-velocity CI/CD pipelines. Proven track record in boosting system throughput, reducing cloud operational expenditure by 28%, and maintaining 99.99% production uptime."
+      },
+      "sections": {
+        "summary": {
+          "id": "summary",
+          "title": "Professional Summary",
+          "type": "custom",
+          "visible": true,
+          "items": [
+            {
+              "title": "New Professional Summary",
+              "subtitle": "",
+              "date": "2024",
+              "description": "Results-driven Senior Software & Cloud Engineer with 6+ years of experience designing scalable microservices, automating multi-region cloud infrastructure, and establishing high-velocity CI/CD pipelines. Proven track record in boosting system throughput, reducing cloud operational expenditure by 28%, and maintaining 99.99% production uptime.",
+              "tags": [],
+              "id": "summary-1786946528583"
+            }
+          ]
+        },
+        "experience": {
+          "id": "experience",
+          "title": "Work Experience",
+          "type": "experience",
+          "visible": true,
+          "items": [
+            {
+              "id": "exp-1",
+              "title": "Senior Software Developer",
+              "subtitle": "Apex Cloud Technologies",
+              "date": "2022 - Present",
+              "location": "San Francisco, CA (Hybrid)",
+              "description": "\u2022 Spearheaded core feature architecture and delivery for Senior Software Developer, reducing production latency and bugs by 35%.\n\u2022 Optimized system performance and database queries, accelerating endpoint response times by 40%.\n\u2022 Optimized system performance and database queries, accelerating endpoint response times by 40%.\n\u2022 Engineered scalable, fault-tolerant solutions supporting high-traffic production workloads with 99.99% uptime."
+            }
+          ]
+        },
+        "skills": {
+          "id": "skills",
+          "title": "Technical Skills",
+          "type": "skills",
+          "visible": true,
+          "items": [
+            {
+              "id": "sk-1",
+              "title": "Cloud & Infrastructure",
+              "tags": []
+            },
+            {
+              "id": "sk-2",
+              "title": "Languages & Frameworks",
+              "tags": [
+                "Python",
+                "Go",
+                "TypeScript",
+                "React",
+                "Node.js",
+                "Next.js"
+              ]
+            },
+            {
+              "id": "sk-3",
+              "title": "Databases & Observability",
+              "tags": [
+                "PostgreSQL",
+                "Redis",
+                "MongoDB",
+                "Prometheus",
+                "Grafana",
+                "Datadog"
+              ]
+            }
+          ]
+        },
+        "projects": {
+          "id": "projects",
+          "title": "Key Projects",
+          "type": "projects",
+          "visible": true,
+          "items": [
+            {
+              "id": "proj-1",
+              "title": "Automated Cloud Infrastructure Orchestrator",
+              "subtitle": "Open Source Infrastructure as Code Service",
+              "date": "2023",
+              "url": "https://github.com/alexmorgan/cloud-orchestrator",
+              "tags": [
+                "Kubernetes",
+                "Terraform",
+                "Go",
+                "AWS"
+              ],
+              "description": "\u2022 Built a lightweight distributed cluster provisioning engine enabling 1-click ephemeral development environments, saving 15+ engineering hours per week."
+            },
+            {
+              "id": "proj-2",
+              "title": "Real-Time Distributed Telemetry Pipeline",
+              "subtitle": "High-Throughput Streaming Event Ingest",
+              "date": "2022",
+              "url": "https://github.com/alexmorgan/telemetry-pipeline",
+              "tags": [
+                "Python",
+                "FastAPI",
+                "Kafka",
+                "Redis"
+              ],
+              "description": "\u2022 Engineered streaming event pipeline processing 10,000+ events/sec with fault-tolerant dead-letter queue recovery."
+            }
+          ]
+        },
+        "education": {
+          "id": "education",
+          "title": "Education",
+          "type": "education",
+          "visible": true,
+          "items": [
+            {
+              "id": "edu-1",
+              "title": "Bachelor of Science in Computer Science",
+              "subtitle": "University of California, Berkeley",
+              "date": "2015 - 2019",
+              "location": "Berkeley, CA"
+            }
+          ]
+        },
+        "languages": {
+          "id": "languages",
+          "title": "Languages",
+          "type": "languages",
+          "visible": true,
+          "items": []
+        }
+      },
+      "metadata": {
+        "colors": {
+          "primary": "#334155",
+          "background": "#ffffff",
+          "text": "#1e293b",
+          "sidebar": "#f1f5f9",
+          "sidebarText": "#0f172a"
+        },
+        "typography": {
+          "headingSize": 14,
+          "bodySize": 10,
+          "fontFamily": "Inter, sans-serif",
+          "lineHeight": 1.5
+        },
+        "page": {
+          "size": "A4",
+          "sidebarWidth": 31,
+          "hideIcons": false,
+          "hideLinkUnderline": true
+        },
+        "layout": {
+          "main": [
+            "summary",
+            "experience",
+            "projects"
+          ],
+          "sidebar": [
+            "skills",
+            "education",
+            "languages"
+          ]
+        }
+      }
+    },
+    "created_ts": 1787241506.5789375,
+    "expires_at_ts": 1787242106.5789375,
+    "created_at": "2026-08-17T11:32:49.913108"
+  },
+  "INT-9789-OD": {
+    "access_key": "INT-9789-OD",
+    "profile": {
+      "id": null,
+      "personal_info": {
+        "name": "Alex Morgan",
+        "email": null,
+        "phone": null,
+        "location": null,
+        "linkedin": null,
+        "github": null
+      },
+      "summary": "",
+      "skills": [],
+      "experience": [],
+      "education": [],
+      "projects": [],
+      "certifications": [],
+      "achievements": [],
+      "raw_text": null
+    },
+    "config": {
+      "target_role": "Cloud Architect",
+      "experience_level": "Experienced",
+      "difficulty": "Intermediate",
+      "interview_type": "Mixed",
+      "max_questions": 7
+    },
+    "resume_data": {
+      "basics": {
+        "name": "Alex Morgan",
+        "headline": "Cloud Architect"
+      }
+    },
+    "created_ts": 1787241506.57894,
+    "expires_at_ts": 1787242106.57894,
+    "created_at": "2026-08-17T13:22:26.372114"
+  },
+  "INT-6265-HU": {
+    "access_key": "INT-6265-HU",
+    "profile": {
+      "id": null,
+      "personal_info": {
+        "name": "Alex Morgan",
+        "email": null,
+        "phone": null,
+        "location": null,
+        "linkedin": null,
+        "github": null
+      },
+      "summary": "",
+      "skills": [],
+      "experience": [],
+      "education": [],
+      "projects": [],
+      "certifications": [],
+      "achievements": [],
+      "raw_text": null
+    },
+    "config": {
+      "target_role": "Cloud Architect",
+      "experience_level": "Experienced",
+      "difficulty": "Intermediate",
+      "interview_type": "Mixed",
+      "max_questions": 7
+    },
+    "resume_data": {
+      "basics": {
+        "name": "Alex Morgan",
+        "headline": "Cloud Architect"
+      }
+    },
+    "created_ts": 1787241506.5789416,
+    "expires_at_ts": 1787242106.578942,
+    "created_at": "2026-08-17T13:22:45.941634"
+  },
+  "INT-1248-BM": {
+    "access_key": "INT-1248-BM",
+    "profile": {
+      "id": null,
+      "personal_info": {
+        "name": "Alex Morgan",
+        "email": null,
+        "phone": null,
+        "location": null,
+        "linkedin": null,
+        "github": null
+      },
+      "summary": "",
+      "skills": [],
+      "experience": [],
+      "education": [],
+      "projects": [],
+      "certifications": [],
+      "achievements": [],
+      "raw_text": null
+    },
+    "config": {
+      "target_role": "Cloud Architect",
+      "experience_level": "Experienced",
+      "difficulty": "Intermediate",
+      "interview_type": "Mixed",
+      "max_questions": 7
+    },
+    "resume_data": {
+      "basics": {
+        "name": "Alex Morgan",
+        "headline": "Cloud Architect"
+      }
+    },
+    "created_ts": 1787241506.5789437,
+    "expires_at_ts": 1787242106.578944,
+    "created_at": "2026-08-17T13:27:46.672392"
+  },
+  "INT-0604-FS": {
+    "access_key": "INT-0604-FS",
+    "profile": {
+      "id": null,
+      "personal_info": {
+        "name": "Syed Sohail Ahmed",
+        "email": "ahmedsyedsohail776@gmail.com",
+        "phone": "9390634592",
+        "location": "",
+        "linkedin": "https://www.linkedin.com/in/-syedsohailahmed/",
+        "github": ""
+      },
+      "summary": "Innovative Software Developer passionate about building high-performance systems and clean code. Demonstrated track record in scaling infrastructure, streamlining workflows, and improving developer productivity.",
+      "skills": [
+        "Cloud & Infrastructure",
+        "Python",
+        "Go",
+        "TypeScript",
+        "React",
+        "Node.js",
+        "Next.js",
+        "PostgreSQL",
+        "Redis",
+        "MongoDB",
+        "Prometheus",
+        "Grafana",
+        "Datadog"
+      ],
+      "experience": [
+        {
+          "role": " Software Developer",
+          "company": "Apex Cloud Technologies",
+          "duration": "jan 2022 - june 2023",
+          "description": "\u2022 Spearheaded core feature architecture and delivery for Senior Software Developer, reducing production latency and bugs by 35%.\n\u2022 Optimized system performance and database queries, accelerating endpoint response times by 40%.\n\u2022 Optimized system performance and database queries, accelerating endpoint response times by 40%.\n\u2022 Engineered scalable, fault-tolerant solutions supporting high-traffic production workloads with 99.99% uptime.",
+          "technologies": []
+        }
+      ],
+      "education": [
+        {
+          "degree": "Bachelor of Engineering",
+          "institution": "Osmania University",
+          "year": "2019-2023",
+          "grade": null
+        }
+      ],
+      "projects": [
+        {
+          "title": "Automated Cloud Infrastructure Orchestrator",
+          "description": "\u2022 Built a lightweight distributed cluster provisioning engine enabling 1-click ephemeral development environments, saving 15+ engineering hours per week.\n\u2022 Engineered scalable Kubernetes clusters with 99.9% uptime for 10K+ users\n\u2022 Built Terraform modules reducing deployment time by 40%\n\u2022 Implemented Go-based automation scripts saving 20+ engineering hours monthly",
+          "technologies": [
+            "Kubernetes",
+            "Terraform",
+            "Go",
+            "AWS"
+          ],
+          "link": "https://github.com/alexmorgan/cloud-orchestrator"
+        },
+        {
+          "title": "Real-Time Distributed Telemetry Pipeline",
+          "description": "\u2022 Engineered streaming event pipeline processing 10,000+ events/sec with fault-tolerant dead-letter queue recovery.\n\u2022 Optimized system performance and database queries, accelerating endpoint response times by 40%.\n\u2022 Collaborated cross-functionally with product and engineering teams to deploy automated continuous delivery pipelines.\n\u2022 Engineered scalable, fault-tolerant solutions supporting high-traffic production workloads with 99.99% uptime.\n",
+          "technologies": [
+            "Python",
+            "FastAPI",
+            "Kafka",
+            "Redis"
+          ],
+          "link": "https://github.com/alexmorgan/telemetry-pipeline"
+        }
+      ],
+      "certifications": [],
+      "achievements": [],
+      "raw_text": null
+    },
+    "config": {
+      "target_role": "Software Developer",
+      "experience_level": "Experienced",
+      "difficulty": "Intermediate",
+      "interview_type": "Mixed",
+      "max_questions": 7
+    },
+    "resume_data": {
+      "id": "resume-1",
+      "title": "Alex Morgan - Senior DevOps Engineer",
+      "basics": {
+        "name": "Syed Sohail Ahmed",
+        "headline": "Software Developer",
+        "email": "ahmedsyedsohail776@gmail.com",
+        "phone": "9390634592",
+        "location": "",
+        "website": "",
+        "portfolioUrl": "https://syedsohail-123.github.io/portfolio-github/",
+        "linkedin": "https://www.linkedin.com/in/-syedsohailahmed/",
+        "github": "",
+        "photoUrl": "",
+        "summary": "Innovative Software Developer passionate about building high-performance systems and clean code. Demonstrated track record in scaling infrastructure, streamlining workflows, and improving developer productivity."
+      },
+      "sections": {
+        "summary": {
+          "id": "summary",
+          "title": "Professional Summary",
+          "type": "custom",
+          "visible": true,
+          "items": [
+            {
+              "title": "New Professional Summary",
+              "subtitle": "",
+              "date": "2024",
+              "description": "Innovative Software Developer passionate about building high-performance systems and clean code. Demonstrated track record in scaling infrastructure, streamlining workflows, and improving developer productivity.\n\u2022 Built scalable software solutions with 99.9% uptime for 10K+ users\n\u2022 Optimized codebase by 30% for improved developer productivity",
+              "tags": [],
+              "id": "summary-1786946528583"
+            }
+          ]
+        },
+        "experience": {
+          "id": "experience",
+          "title": "Work Experience",
+          "type": "experience",
+          "visible": true,
+          "items": [
+            {
+              "id": "exp-1",
+              "title": " Software Developer",
+              "subtitle": "Apex Cloud Technologies",
+              "date": "jan 2022 - june 2023",
+              "location": "San Francisco, CA (Hybrid)",
+              "description": "\u2022 Spearheaded core feature architecture and delivery for Senior Software Developer, reducing production latency and bugs by 35%.\n\u2022 Optimized system performance and database queries, accelerating endpoint response times by 40%.\n\u2022 Optimized system performance and database queries, accelerating endpoint response times by 40%.\n\u2022 Engineered scalable, fault-tolerant solutions supporting high-traffic production workloads with 99.99% uptime."
+            }
+          ]
+        },
+        "skills": {
+          "id": "skills",
+          "title": "Technical Skills",
+          "type": "skills",
+          "visible": true,
+          "items": [
+            {
+              "id": "sk-1",
+              "title": "Cloud & Infrastructure",
+              "tags": []
+            },
+            {
+              "id": "sk-2",
+              "title": "Languages & Frameworks",
+              "tags": [
+                "Python",
+                "Go",
+                "TypeScript",
+                "React",
+                "Node.js",
+                "Next.js"
+              ]
+            },
+            {
+              "id": "sk-3",
+              "title": "Databases & Observability",
+              "tags": [
+                "PostgreSQL",
+                "Redis",
+                "MongoDB",
+                "Prometheus",
+                "Grafana",
+                "Datadog"
+              ]
+            }
+          ]
+        },
+        "projects": {
+          "id": "projects",
+          "title": "Key Projects",
+          "type": "projects",
+          "visible": true,
+          "items": [
+            {
+              "id": "proj-1",
+              "title": "Automated Cloud Infrastructure Orchestrator",
+              "subtitle": "Open Source Infrastructure as Code Service",
+              "date": "2023",
+              "url": "https://github.com/alexmorgan/cloud-orchestrator",
+              "tags": [
+                "Kubernetes",
+                "Terraform",
+                "Go",
+                "AWS"
+              ],
+              "description": "\u2022 Built a lightweight distributed cluster provisioning engine enabling 1-click ephemeral development environments, saving 15+ engineering hours per week.\n\u2022 Engineered scalable Kubernetes clusters with 99.9% uptime for 10K+ users\n\u2022 Built Terraform modules reducing deployment time by 40%\n\u2022 Implemented Go-based automation scripts saving 20+ engineering hours monthly"
+            },
+            {
+              "id": "proj-2",
+              "title": "Real-Time Distributed Telemetry Pipeline",
+              "subtitle": "High-Throughput Streaming Event Ingest",
+              "date": "2022",
+              "url": "https://github.com/alexmorgan/telemetry-pipeline",
+              "tags": [
+                "Python",
+                "FastAPI",
+                "Kafka",
+                "Redis"
+              ],
+              "description": "\u2022 Engineered streaming event pipeline processing 10,000+ events/sec with fault-tolerant dead-letter queue recovery.\n\u2022 Optimized system performance and database queries, accelerating endpoint response times by 40%.\n\u2022 Collaborated cross-functionally with product and engineering teams to deploy automated continuous delivery pipelines.\n\u2022 Engineered scalable, fault-tolerant solutions supporting high-traffic production workloads with 99.99% uptime.\n"
+            }
+          ]
+        },
+        "education": {
+          "id": "education",
+          "title": "Education",
+          "type": "education",
+          "visible": true,
+          "items": [
+            {
+              "id": "edu-1",
+              "title": "Bachelor of Engineering",
+              "subtitle": "Osmania University",
+              "date": "2019-2023",
+              "location": "Hyderabad"
+            }
+          ]
+        },
+        "languages": {
+          "id": "languages",
+          "title": "Languages",
+          "type": "languages",
+          "visible": true,
+          "items": []
+        }
+      },
+      "metadata": {
+        "colors": {
+          "primary": "#334155",
+          "background": "#ffffff",
+          "text": "#1e293b",
+          "sidebar": "#f1f5f9",
+          "sidebarText": "#0f172a"
+        },
+        "typography": {
+          "headingSize": 12,
+          "bodySize": 10,
+          "fontFamily": "Inter, sans-serif",
+          "lineHeight": 1.5
+        },
+        "page": {
+          "size": "A4",
+          "sidebarWidth": 31,
+          "hideIcons": false,
+          "hideLinkUnderline": true
+        },
+        "layout": {
+          "main": [
+            "summary",
+            "experience",
+            "projects"
+          ],
+          "sidebar": [
+            "skills",
+            "education",
+            "languages"
+          ]
+        }
+      }
+    },
+    "created_ts": 1787241506.578946,
+    "expires_at_ts": 1787242106.5789464,
+    "created_at": "2026-08-17T14:08:23.090380"
+  },
+  "INT-4967-JH": {
+    "access_key": "INT-4967-JH",
+    "profile": {
+      "id": null,
+      "personal_info": {
+        "name": "Alex Morgan",
+        "email": "alex.morgan@example.com",
+        "phone": "+1 (555) 234-5678",
+        "location": "San Francisco, CA",
+        "linkedin": "https://linkedin.com/in/alexmorgan",
+        "github": "https://github.com/alexmorgan"
+      },
+      "summary": "Results-driven Senior Software & Cloud Engineer with 6+ years of experience designing scalable microservices, automating multi-region cloud infrastructure, and establishing high-velocity CI/CD pipelines. Proven track record in boosting system throughput, reducing cloud operational expenditure by 28%, and maintaining 99.99% production uptime.",
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Terraform",
+        "Helm",
+        "Linux",
+        "Python",
+        "Go",
+        "TypeScript",
+        "React",
+        "Node.js",
+        "Next.js",
+        "PostgreSQL",
+        "Redis",
+        "MongoDB",
+        "Prometheus",
+        "Grafana",
+        "Datadog"
+      ],
+      "experience": [
+        {
+          "role": "Senior DevOps & Platform Engineer",
+          "company": "Apex Cloud Technologies",
+          "duration": "Jan 2022 - Present",
+          "description": "\u2022 Spearheaded migration from legacy monolith to Kubernetes microservices on AWS (EKS), reducing infrastructure costs by 28% and doubling request throughput.\n\u2022 Architected automated multi-region GitOps CI/CD deployment pipelines with ArgoCD and GitHub Actions, cutting release cycles from 4 hours to 12 minutes.\n\u2022 Engineered real-time observability telemetry using Prometheus and Grafana dashboards, increasing service reliability to 99.99% uptime.\n\u2022 Mentored 6 software engineers and led cross-functional architecture reviews across distributed teams.",
+          "technologies": []
+        },
+        {
+          "role": "Full Stack Software Engineer",
+          "company": "Quantum Enterprise Systems",
+          "duration": "Mar 2019 - Dec 2021",
+          "description": "\u2022 Designed and deployed high-performance REST and GraphQL APIs handling over 25M daily transactions with sub-80ms p99 latency.\n\u2022 Built reusable modular frontend components in React and TypeScript, improving Core Web Vitals score from 68 to 94.\n\u2022 Optimized PostgreSQL query indexes and Redis caching layers, eliminating database bottlenecks during high-traffic flash sales.",
+          "technologies": []
+        }
+      ],
+      "education": [
+        {
+          "degree": "Bachelor of Science in Computer Science",
+          "institution": "University of California, Berkeley",
+          "year": "Aug 2015 - May 2019",
+          "grade": null
+        }
+      ],
+      "projects": [
+        {
+          "title": "Automated Cloud Infrastructure Orchestrator",
+          "description": "\u2022 Built a lightweight distributed cluster provisioning engine enabling 1-click ephemeral development environments, saving 15+ engineering hours per week.",
+          "technologies": [
+            "Kubernetes",
+            "Terraform",
+            "Go",
+            "AWS"
+          ],
+          "link": "https://github.com/alexmorgan/cloud-orchestrator"
+        },
+        {
+          "title": "Real-Time Distributed Telemetry Pipeline",
+          "description": "\u2022 Engineered streaming event pipeline processing 10,000+ events/sec with fault-tolerant dead-letter queue recovery.",
+          "technologies": [
+            "Python",
+            "FastAPI",
+            "Kafka",
+            "Redis"
+          ],
+          "link": "https://github.com/alexmorgan/telemetry-pipeline"
+        }
+      ],
+      "certifications": [],
+      "achievements": [],
+      "raw_text": null
+    },
+    "config": {
+      "target_role": "Senior Software & Cloud DevOps Engineer",
+      "experience_level": "Experienced",
+      "difficulty": "Intermediate",
+      "interview_type": "Mixed",
+      "max_questions": 7
+    },
+    "resume_data": {
+      "id": "resume-1",
+      "title": "Alex Morgan - Senior DevOps Engineer",
+      "basics": {
+        "name": "Alex Morgan",
+        "headline": "Senior Software & Cloud DevOps Engineer",
+        "email": "alex.morgan@example.com",
+        "phone": "+1 (555) 234-5678",
+        "location": "San Francisco, CA",
+        "website": "https://alexmorgan.dev",
+        "portfolioUrl": "https://alexmorgan.dev",
+        "linkedin": "https://linkedin.com/in/alexmorgan",
+        "github": "https://github.com/alexmorgan",
+        "photoUrl": "",
+        "summary": "Results-driven Senior Software & Cloud Engineer with 6+ years of experience designing scalable microservices, automating multi-region cloud infrastructure, and establishing high-velocity CI/CD pipelines. Proven track record in boosting system throughput, reducing cloud operational expenditure by 28%, and maintaining 99.99% production uptime."
+      },
+      "sections": {
+        "summary": {
+          "id": "summary",
+          "title": "Professional Summary",
+          "type": "custom",
+          "visible": true,
+          "items": []
+        },
+        "experience": {
+          "id": "experience",
+          "title": "Work Experience",
+          "type": "experience",
+          "visible": true,
+          "items": [
+            {
+              "id": "exp-1",
+              "title": "Senior DevOps & Platform Engineer",
+              "subtitle": "Apex Cloud Technologies",
+              "date": "Jan 2022 - Present",
+              "location": "San Francisco, CA (Hybrid)",
+              "description": "\u2022 Spearheaded migration from legacy monolith to Kubernetes microservices on AWS (EKS), reducing infrastructure costs by 28% and doubling request throughput.\n\u2022 Architected automated multi-region GitOps CI/CD deployment pipelines with ArgoCD and GitHub Actions, cutting release cycles from 4 hours to 12 minutes.\n\u2022 Engineered real-time observability telemetry using Prometheus and Grafana dashboards, increasing service reliability to 99.99% uptime.\n\u2022 Mentored 6 software engineers and led cross-functional architecture reviews across distributed teams."
+            },
+            {
+              "id": "exp-2",
+              "title": "Full Stack Software Engineer",
+              "subtitle": "Quantum Enterprise Systems",
+              "date": "Mar 2019 - Dec 2021",
+              "location": "Remote",
+              "description": "\u2022 Designed and deployed high-performance REST and GraphQL APIs handling over 25M daily transactions with sub-80ms p99 latency.\n\u2022 Built reusable modular frontend components in React and TypeScript, improving Core Web Vitals score from 68 to 94.\n\u2022 Optimized PostgreSQL query indexes and Redis caching layers, eliminating database bottlenecks during high-traffic flash sales."
+            }
+          ]
+        },
+        "skills": {
+          "id": "skills",
+          "title": "Technical Skills",
+          "type": "skills",
+          "visible": true,
+          "items": [
+            {
+              "id": "sk-1",
+              "title": "Cloud & Infrastructure",
+              "tags": [
+                "AWS",
+                "Kubernetes",
+                "Docker",
+                "Terraform",
+                "Helm",
+                "Linux"
+              ]
+            },
+            {
+              "id": "sk-2",
+              "title": "Languages & Frameworks",
+              "tags": [
+                "Python",
+                "Go",
+                "TypeScript",
+                "React",
+                "Node.js",
+                "Next.js"
+              ]
+            },
+            {
+              "id": "sk-3",
+              "title": "Databases & Observability",
+              "tags": [
+                "PostgreSQL",
+                "Redis",
+                "MongoDB",
+                "Prometheus",
+                "Grafana",
+                "Datadog"
+              ]
+            }
+          ]
+        },
+        "projects": {
+          "id": "projects",
+          "title": "Key Projects",
+          "type": "projects",
+          "visible": true,
+          "items": [
+            {
+              "id": "proj-1",
+              "title": "Automated Cloud Infrastructure Orchestrator",
+              "subtitle": "Open Source Infrastructure as Code Service",
+              "date": "Aug 2023 - Present",
+              "url": "https://github.com/alexmorgan/cloud-orchestrator",
+              "tags": [
+                "Kubernetes",
+                "Terraform",
+                "Go",
+                "AWS"
+              ],
+              "description": "\u2022 Built a lightweight distributed cluster provisioning engine enabling 1-click ephemeral development environments, saving 15+ engineering hours per week."
+            },
+            {
+              "id": "proj-2",
+              "title": "Real-Time Distributed Telemetry Pipeline",
+              "subtitle": "High-Throughput Streaming Event Ingest",
+              "date": "Jan 2022 - Nov 2022",
+              "url": "https://github.com/alexmorgan/telemetry-pipeline",
+              "tags": [
+                "Python",
+                "FastAPI",
+                "Kafka",
+                "Redis"
+              ],
+              "description": "\u2022 Engineered streaming event pipeline processing 10,000+ events/sec with fault-tolerant dead-letter queue recovery."
+            }
+          ]
+        },
+        "education": {
+          "id": "education",
+          "title": "Education",
+          "type": "education",
+          "visible": true,
+          "items": [
+            {
+              "id": "edu-1",
+              "title": "Bachelor of Science in Computer Science",
+              "subtitle": "University of California, Berkeley",
+              "date": "Aug 2015 - May 2019",
+              "location": "Berkeley, CA"
+            }
+          ]
+        },
+        "languages": {
+          "id": "languages",
+          "title": "Languages",
+          "type": "languages",
+          "visible": true,
+          "items": [
+            {
+              "id": "lang-1",
+              "title": "English",
+              "subtitle": "Native / Bilingual"
+            },
+            {
+              "id": "lang-2",
+              "title": "Spanish",
+              "subtitle": "Professional Working Proficiency"
+            }
+          ]
+        }
+      },
+      "metadata": {
+        "colors": {
+          "primary": "#334155",
+          "background": "#ffffff",
+          "text": "#1e293b",
+          "sidebar": "#f1f5f9",
+          "sidebarText": "#0f172a"
+        },
+        "typography": {
+          "headingSize": 14,
+          "bodySize": 10,
+          "fontFamily": "Inter, sans-serif",
+          "lineHeight": 1.5
+        },
+        "page": {
+          "size": "A4",
+          "sidebarWidth": 32,
+          "hideIcons": false,
+          "hideLinkUnderline": true
+        },
+        "layout": {
+          "main": [
+            "summary",
+            "experience",
+            "projects"
+          ],
+          "sidebar": [
+            "skills",
+            "education",
+            "languages"
+          ]
+        }
+      }
+    },
+    "created_ts": 1787241506.578953,
+    "expires_at_ts": 1787242106.5789533,
+    "created_at": "2026-08-17T15:45:58.902760"
+  },
+  "INT-1437-XD": {
+    "access_key": "INT-1437-XD",
+    "profile": {
+      "id": null,
+      "personal_info": {
+        "name": "SYED SOHAIL AHMED",
+        "email": "ahmedsyedsohail776@gmail.com",
+        "phone": "9390634592",
+        "location": "Hyderabad",
+        "linkedin": "https://www.linkedin.com/in/-syedsohailahmed/",
+        "github": ""
+      },
+      "summary": "Full-Stack Developer (2023 B.E. graduate) with 1.5 years of production experience across enterprise SaaS, serverless IoT backends, and AI- powered web apps. Proficient in Next.js, React, Tailwind CSS, FastAPI, Python, Node.js, and Flutter. Deployed end-to-end systems on AWS (Lambda, ECS, RDS, DynamoDB) with Terraform- managed infrastructure. Actively building AI-native products; ready to contribute from day one at early-stage startups.",
+      "skills": [
+        "Python",
+        "JavaScript",
+        "TypeScript",
+        "Dart (Flutter)",
+        "React.js",
+        "Next.js",
+        "Tailwind CSS",
+        "Vite",
+        "HTML5",
+        "CSS3",
+        "Flutter",
+        "FastAPI",
+        "Django",
+        "Flask",
+        "Express.js",
+        "Nest.js",
+        "Node.js",
+        "REST APIs",
+        "WebSockets",
+        "AWS (Lambda",
+        "ECS",
+        "EC2",
+        "S3",
+        "RDS",
+        "DynamoDB",
+        "Cognito",
+        "API Gateway)",
+        "Docker",
+        "Kubernetes",
+        "OpenAI API",
+        "LangChain (basics)",
+        "Prompt Engineering",
+        "RAG pipelines",
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB"
+      ],
+      "experience": [
+        {
+          "role": "Full-Stack Developer",
+          "company": "Staffbees Solution",
+          "duration": "March 26- May 26",
+          "description": "\u2022 Designed & shipped an enterprise SaaS dashboard (Next.js + Tailwind CSS) in 3 months \u2014 role-based access,\n\u2022 real-time data views, multi-tenant admin flows.\n\u2022 Built an AI resume generation engine that auto-converts user\n\u2022 data into formatted CV templates, cutting manual effort ~80%.\n\u2022 Engineered an automated interview management\n\u2022 system with Nest.js \u2014 backend-triggered emails, scheduling, and mock-interview session access.\n\u2022 Deployed containerized Nest.js microservices on AWS ECS + ELB; AWS RDS for session and document persistence; Vercel + GitHub Actions for CI/CD.",
+          "technologies": []
+        },
+        {
+          "role": "Backend Developer (Intern)",
+          "company": "Flostat",
+          "duration": "Jan 25-Jan26",
+          "description": "\u2022 Built serverless IoT backend on AWS Lambda + API Gateway + DynamoDB + S3 for real-time water monitoring\n\u2022 processing thousands of sensor events daily.\n\u2022 Developed REST APIs in Python and Node.js; implemented authentication with AWS Cognito; automated deployments via Terraform, Docker, GitHub Actions.",
+          "technologies": []
+        }
+      ],
+      "education": [
+        {
+          "degree": "B.E. in Engineering",
+          "institution": "Osmania University",
+          "year": "Graduated",
+          "grade": null
+        }
+      ],
+      "projects": [
+        {
+          "title": "AI-Powered Codebase Analyzer",
+          "description": "\u2022 Ingests GitHub repos \u2192 auto-generates architecture breakdowns, tech-stack summaries, and Mermaid.js\n\u2022 flowcharts. LLM-powered Q&A for semantic code queries.\n\u2022 Real-time Security & Bug Scanner (risk-severity categorized). FastAPI \u2194 Next.js WebSocket for streaming AI inference updates. Dark- mode premium UI with Markdown export.",
+          "technologies": [
+            "React",
+            "Next.js",
+            "TypeScript",
+            "Tailwind CSS",
+            "Python",
+            "FastAPI",
+            "WebSockets",
+            "LLMs"
+          ],
+          "link": null
+        }
+      ],
+      "certifications": [],
+      "achievements": [],
+      "raw_text": null
+    },
+    "config": {
+      "target_role": "Full-Stack Developer Cloud & DevOps",
+      "experience_level": "Experienced",
+      "difficulty": "Intermediate",
+      "interview_type": "Mixed",
+      "max_questions": 7
+    },
+    "resume_data": {
+      "id": "res-1787153256",
+      "title": "SYED SOHAIL AHMED's Resume",
+      "basics": {
+        "name": "SYED SOHAIL AHMED",
+        "headline": "Full-Stack Developer Cloud & DevOps",
+        "email": "ahmedsyedsohail776@gmail.com",
+        "phone": "9390634592",
+        "location": "Hyderabad",
+        "website": "",
+        "portfolioUrl": "https://syedsohail-123.github.io/portfolio-github/",
+        "linkedin": "https://www.linkedin.com/in/-syedsohailahmed/",
+        "github": "",
+        "photoUrl": "",
+        "summary": "Full-Stack Developer (2023 B.E. graduate) with 1.5 years of production experience across enterprise SaaS, serverless IoT backends, and AI- powered web apps. Proficient in Next.js, React, Tailwind CSS, FastAPI, Python, Node.js, and Flutter. Deployed end-to-end systems on AWS (Lambda, ECS, RDS, DynamoDB) with Terraform- managed infrastructure. Actively building AI-native products; ready to contribute from day one at early-stage startups."
+      },
+      "sections": {
+        "summary": {
+          "id": "summary",
+          "title": "Professional Summary",
+          "type": "custom",
+          "visible": true,
+          "items": []
+        },
+        "experience": {
+          "id": "experience",
+          "title": "Work Experience",
+          "type": "experience",
+          "visible": true,
+          "items": [
+            {
+              "id": "exp-1",
+              "title": "Full-Stack Developer",
+              "subtitle": "Staffbees Solution",
+              "date": "March 26- May 26",
+              "location": "Hyderabad (Onsite)",
+              "description": "\u2022 Designed & shipped an enterprise SaaS dashboard (Next.js + Tailwind CSS) in 3 months \u2014 role-based access,\n\u2022 real-time data views, multi-tenant admin flows.\n\u2022 Built an AI resume generation engine that auto-converts user\n\u2022 data into formatted CV templates, cutting manual effort ~80%.\n\u2022 Engineered an automated interview management\n\u2022 system with Nest.js \u2014 backend-triggered emails, scheduling, and mock-interview session access.\n\u2022 Deployed containerized Nest.js microservices on AWS ECS + ELB; AWS RDS for session and document persistence; Vercel + GitHub Actions for CI/CD."
+            },
+            {
+              "id": "exp-2",
+              "title": "Backend Developer (Intern)",
+              "subtitle": "Flostat",
+              "date": "Jan 25-Jan26",
+              "location": "Remote",
+              "description": "\u2022 Built serverless IoT backend on AWS Lambda + API Gateway + DynamoDB + S3 for real-time water monitoring\n\u2022 processing thousands of sensor events daily.\n\u2022 Developed REST APIs in Python and Node.js; implemented authentication with AWS Cognito; automated deployments via Terraform, Docker, GitHub Actions."
+            }
+          ]
+        },
+        "skills": {
+          "id": "skills",
+          "title": "Technical Skills",
+          "type": "skills",
+          "visible": true,
+          "items": [
+            {
+              "id": "sk-1",
+              "title": "Languages",
+              "tags": [
+                "Python",
+                "JavaScript",
+                "TypeScript",
+                "Dart (Flutter)"
+              ]
+            },
+            {
+              "id": "sk-2",
+              "title": "Frontend",
+              "tags": [
+                "React.js",
+                "Next.js",
+                "Tailwind CSS",
+                "Vite",
+                "HTML5",
+                "CSS3",
+                "Flutter"
+              ]
+            },
+            {
+              "id": "sk-3",
+              "title": "Backend",
+              "tags": [
+                "FastAPI",
+                "Django",
+                "Flask",
+                "Express.js",
+                "Nest.js",
+                "Node.js",
+                "REST APIs",
+                "WebSockets"
+              ]
+            },
+            {
+              "id": "sk-4",
+              "title": "Cloud & DevOps",
+              "tags": [
+                "AWS (Lambda",
+                "ECS",
+                "EC2",
+                "S3",
+                "RDS",
+                "DynamoDB",
+                "Cognito",
+                "API Gateway)",
+                "Docker",
+                "Kubernetes"
+              ]
+            },
+            {
+              "id": "sk-5",
+              "title": "AI / LLM",
+              "tags": [
+                "OpenAI API",
+                "LangChain (basics)",
+                "Prompt Engineering",
+                "RAG pipelines"
+              ]
+            },
+            {
+              "id": "sk-6",
+              "title": "Databases",
+              "tags": [
+                "PostgreSQL",
+                "MySQL",
+                "MongoDB",
+                "DynamoDB"
+              ]
+            }
+          ]
+        },
+        "projects": {
+          "id": "projects",
+          "title": "Key Projects",
+          "type": "projects",
+          "visible": true,
+          "items": [
+            {
+              "id": "proj-1",
+              "title": "AI-Powered Codebase Analyzer",
+              "subtitle": "Personal Project",
+              "date": "Aug 2026",
+              "description": "\u2022 Ingests GitHub repos \u2192 auto-generates architecture breakdowns, tech-stack summaries, and Mermaid.js\n\u2022 flowcharts. LLM-powered Q&A for semantic code queries.\n\u2022 Real-time Security & Bug Scanner (risk-severity categorized). FastAPI \u2194 Next.js WebSocket for streaming AI inference updates. Dark- mode premium UI with Markdown export.",
+              "tags": [
+                "React",
+                "Next.js",
+                "TypeScript",
+                "Tailwind CSS",
+                "Python",
+                "FastAPI",
+                "WebSockets",
+                "LLMs"
+              ]
+            }
+          ]
+        },
+        "education": {
+          "id": "education",
+          "title": "Education",
+          "type": "education",
+          "visible": true,
+          "items": [
+            {
+              "id": "edu-1",
+              "title": "B.E. in Engineering",
+              "subtitle": "Osmania University",
+              "date": "Graduated"
+            }
+          ]
+        },
+        "certifications": {
+          "id": "certifications",
+          "title": "Certifications",
+          "type": "certifications",
+          "visible": true,
+          "items": []
+        }
+      },
+      "metadata": {
+        "colors": {
+          "primary": "#334155",
+          "background": "#ffffff",
+          "text": "#0f172a",
+          "sidebar": "#f1f5f9",
+          "sidebarText": "#0f172a"
+        },
+        "typography": {
+          "headingSize": 14,
+          "bodySize": 10,
+          "fontFamily": "Inter"
+        },
+        "page": {
+          "size": "A4",
+          "sidebarWidth": 30,
+          "hideIcons": false,
+          "hideLinkUnderline": false
+        },
+        "layout": {
+          "sidebar": [
+            "skills",
+            "education",
+            "certifications"
+          ],
+          "main": [
+            "summary",
+            "experience",
+            "projects"
+          ]
+        }
+      }
+    },
+    "created_ts": 1787241506.5789561,
+    "expires_at_ts": 1787242106.5789561,
+    "created_at": "2026-08-20T20:17:27.934605"
+  },
+  "INT-4329-VE": {
+    "access_key": "INT-4329-VE",
+    "profile": {
+      "id": null,
+      "personal_info": {
+        "name": "SYED SOHAIL AHMED",
+        "email": "ahmedsyedsohail776@gmail.com",
+        "phone": "9390634592",
+        "location": "Hyderabad",
+        "linkedin": "https://www.linkedin.com/in/-syedsohailahmed/",
+        "github": ""
+      },
+      "summary": "Full-Stack Developer (2023 B.E. graduate) with 1.5 years of production experience across enterprise SaaS, serverless IoT backends, and AI- powered web apps. Proficient in Next.js, React, Tailwind CSS, FastAPI, Python, Node.js, and Flutter. Deployed end-to-end systems on AWS (Lambda, ECS, RDS, DynamoDB) with Terraform- managed infrastructure. Actively building AI-native products; ready to contribute from day one at early-stage startups.",
+      "skills": [
+        "Python",
+        "JavaScript",
+        "TypeScript",
+        "Dart (Flutter)",
+        "React.js",
+        "Next.js",
+        "Tailwind CSS",
+        "Vite",
+        "HTML5",
+        "CSS3",
+        "Flutter",
+        "FastAPI",
+        "Django",
+        "Flask",
+        "Express.js",
+        "Nest.js",
+        "Node.js",
+        "REST APIs",
+        "WebSockets",
+        "AWS (Lambda",
+        "ECS",
+        "EC2",
+        "S3",
+        "RDS",
+        "DynamoDB",
+        "Cognito",
+        "API Gateway)",
+        "Docker",
+        "Kubernetes",
+        "OpenAI API",
+        "LangChain (basics)",
+        "Prompt Engineering",
+        "RAG pipelines",
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB"
+      ],
+      "experience": [
+        {
+          "role": "Full-Stack Developer",
+          "company": "Staffbees Solution",
+          "duration": "March 26- May 26",
+          "description": "\u2022 Designed & shipped an enterprise SaaS dashboard (Next.js + Tailwind CSS) in 3 months \u2014 role-based access,\n\u2022 real-time data views, multi-tenant admin flows.\n\u2022 Built an AI resume generation engine that auto-converts user\n\u2022 data into formatted CV templates, cutting manual effort ~80%.\n\u2022 Engineered an automated interview management\n\u2022 system with Nest.js \u2014 backend-triggered emails, scheduling, and mock-interview session access.\n\u2022 Deployed containerized Nest.js microservices on AWS ECS + ELB; AWS RDS for session and document persistence; Vercel + GitHub Actions for CI/CD.",
+          "technologies": []
+        },
+        {
+          "role": "Backend Developer (Intern)",
+          "company": "Flostat",
+          "duration": "Jan 25-Jan26",
+          "description": "\u2022 Built serverless IoT backend on AWS Lambda + API Gateway + DynamoDB + S3 for real-time water monitoring\n\u2022 processing thousands of sensor events daily.\n\u2022 Developed REST APIs in Python and Node.js; implemented authentication with AWS Cognito; automated deployments via Terraform, Docker, GitHub Actions.",
+          "technologies": []
+        }
+      ],
+      "education": [
+        {
+          "degree": "B.E. in Engineering",
+          "institution": "Osmania University",
+          "year": "Graduated",
+          "grade": null
+        }
+      ],
+      "projects": [
+        {
+          "title": "AI-Powered Codebase Analyzer",
+          "description": "\u2022 Ingests GitHub repos \u2192 auto-generates architecture breakdowns, tech-stack summaries, and Mermaid.js\n\u2022 flowcharts. LLM-powered Q&A for semantic code queries.\n\u2022 Real-time Security & Bug Scanner (risk-severity categorized). FastAPI \u2194 Next.js WebSocket for streaming AI inference updates. Dark- mode premium UI with Markdown export.",
+          "technologies": [
+            "React",
+            "Next.js",
+            "TypeScript",
+            "Tailwind CSS",
+            "Python",
+            "FastAPI",
+            "WebSockets",
+            "LLMs"
+          ],
+          "link": null
+        }
+      ],
+      "certifications": [],
+      "achievements": [],
+      "raw_text": null
+    },
+    "config": {
+      "target_role": "Full-Stack Developer Cloud & DevOps",
+      "experience_level": "Experienced",
+      "difficulty": "Intermediate",
+      "interview_type": "Mixed",
+      "max_questions": 7
+    },
+    "resume_data": {
+      "id": "res-1787153256",
+      "title": "SYED SOHAIL AHMED's Resume",
+      "basics": {
+        "name": "SYED SOHAIL AHMED",
+        "headline": "Full-Stack Developer Cloud & DevOps",
+        "email": "ahmedsyedsohail776@gmail.com",
+        "phone": "9390634592",
+        "location": "Hyderabad",
+        "website": "",
+        "portfolioUrl": "https://syedsohail-123.github.io/portfolio-github/",
+        "linkedin": "https://www.linkedin.com/in/-syedsohailahmed/",
+        "github": "",
+        "photoUrl": "",
+        "summary": "Full-Stack Developer (2023 B.E. graduate) with 1.5 years of production experience across enterprise SaaS, serverless IoT backends, and AI- powered web apps. Proficient in Next.js, React, Tailwind CSS, FastAPI, Python, Node.js, and Flutter. Deployed end-to-end systems on AWS (Lambda, ECS, RDS, DynamoDB) with Terraform- managed infrastructure. Actively building AI-native products; ready to contribute from day one at early-stage startups."
+      },
+      "sections": {
+        "summary": {
+          "id": "summary",
+          "title": "Professional Summary",
+          "type": "custom",
+          "visible": true,
+          "items": []
+        },
+        "experience": {
+          "id": "experience",
+          "title": "Work Experience",
+          "type": "experience",
+          "visible": true,
+          "items": [
+            {
+              "id": "exp-1",
+              "title": "Full-Stack Developer",
+              "subtitle": "Staffbees Solution",
+              "date": "March 26- May 26",
+              "location": "Hyderabad (Onsite)",
+              "description": "\u2022 Designed & shipped an enterprise SaaS dashboard (Next.js + Tailwind CSS) in 3 months \u2014 role-based access,\n\u2022 real-time data views, multi-tenant admin flows.\n\u2022 Built an AI resume generation engine that auto-converts user\n\u2022 data into formatted CV templates, cutting manual effort ~80%.\n\u2022 Engineered an automated interview management\n\u2022 system with Nest.js \u2014 backend-triggered emails, scheduling, and mock-interview session access.\n\u2022 Deployed containerized Nest.js microservices on AWS ECS + ELB; AWS RDS for session and document persistence; Vercel + GitHub Actions for CI/CD."
+            },
+            {
+              "id": "exp-2",
+              "title": "Backend Developer (Intern)",
+              "subtitle": "Flostat",
+              "date": "Jan 25-Jan26",
+              "location": "Remote",
+              "description": "\u2022 Built serverless IoT backend on AWS Lambda + API Gateway + DynamoDB + S3 for real-time water monitoring\n\u2022 processing thousands of sensor events daily.\n\u2022 Developed REST APIs in Python and Node.js; implemented authentication with AWS Cognito; automated deployments via Terraform, Docker, GitHub Actions."
+            }
+          ]
+        },
+        "skills": {
+          "id": "skills",
+          "title": "Technical Skills",
+          "type": "skills",
+          "visible": true,
+          "items": [
+            {
+              "id": "sk-1",
+              "title": "Languages",
+              "tags": [
+                "Python",
+                "JavaScript",
+                "TypeScript",
+                "Dart (Flutter)"
+              ]
+            },
+            {
+              "id": "sk-2",
+              "title": "Frontend",
+              "tags": [
+                "React.js",
+                "Next.js",
+                "Tailwind CSS",
+                "Vite",
+                "HTML5",
+                "CSS3",
+                "Flutter"
+              ]
+            },
+            {
+              "id": "sk-3",
+              "title": "Backend",
+              "tags": [
+                "FastAPI",
+                "Django",
+                "Flask",
+                "Express.js",
+                "Nest.js",
+                "Node.js",
+                "REST APIs",
+                "WebSockets"
+              ]
+            },
+            {
+              "id": "sk-4",
+              "title": "Cloud & DevOps",
+              "tags": [
+                "AWS (Lambda",
+                "ECS",
+                "EC2",
+                "S3",
+                "RDS",
+                "DynamoDB",
+                "Cognito",
+                "API Gateway)",
+                "Docker",
+                "Kubernetes"
+              ]
+            },
+            {
+              "id": "sk-5",
+              "title": "AI / LLM",
+              "tags": [
+                "OpenAI API",
+                "LangChain (basics)",
+                "Prompt Engineering",
+                "RAG pipelines"
+              ]
+            },
+            {
+              "id": "sk-6",
+              "title": "Databases",
+              "tags": [
+                "PostgreSQL",
+                "MySQL",
+                "MongoDB",
+                "DynamoDB"
+              ]
+            }
+          ]
+        },
+        "projects": {
+          "id": "projects",
+          "title": "Key Projects",
+          "type": "projects",
+          "visible": true,
+          "items": [
+            {
+              "id": "proj-1",
+              "title": "AI-Powered Codebase Analyzer",
+              "subtitle": "Personal Project",
+              "date": "Aug 2026",
+              "description": "\u2022 Ingests GitHub repos \u2192 auto-generates architecture breakdowns, tech-stack summaries, and Mermaid.js\n\u2022 flowcharts. LLM-powered Q&A for semantic code queries.\n\u2022 Real-time Security & Bug Scanner (risk-severity categorized). FastAPI \u2194 Next.js WebSocket for streaming AI inference updates. Dark- mode premium UI with Markdown export.",
+              "tags": [
+                "React",
+                "Next.js",
+                "TypeScript",
+                "Tailwind CSS",
+                "Python",
+                "FastAPI",
+                "WebSockets",
+                "LLMs"
+              ]
+            }
+          ]
+        },
+        "education": {
+          "id": "education",
+          "title": "Education",
+          "type": "education",
+          "visible": true,
+          "items": [
+            {
+              "id": "edu-1",
+              "title": "B.E. in Engineering",
+              "subtitle": "Osmania University",
+              "date": "Graduated"
+            }
+          ]
+        },
+        "certifications": {
+          "id": "certifications",
+          "title": "Certifications",
+          "type": "certifications",
+          "visible": true,
+          "items": []
+        }
+      },
+      "metadata": {
+        "colors": {
+          "primary": "#334155",
+          "background": "#ffffff",
+          "text": "#0f172a",
+          "sidebar": "#f1f5f9",
+          "sidebarText": "#0f172a"
+        },
+        "typography": {
+          "headingSize": 14,
+          "bodySize": 10,
+          "fontFamily": "Inter"
+        },
+        "page": {
+          "size": "A4",
+          "sidebarWidth": 30,
+          "hideIcons": false,
+          "hideLinkUnderline": false
+        },
+        "layout": {
+          "sidebar": [
+            "skills",
+            "education",
+            "certifications"
+          ],
+          "main": [
+            "summary",
+            "experience",
+            "projects"
+          ]
+        }
+      }
+    },
+    "created_ts": 1787241506.578958,
+    "expires_at_ts": 1787242106.5789583,
+    "created_at": "2026-08-20T20:24:32.777037"
+  },
+  "INT-8779-DQ": {
+    "access_key": "INT-8779-DQ",
+    "profile": {
+      "id": null,
+      "personal_info": {
+        "name": "SYED SOHAIL AHMED",
+        "email": "ahmedsyedsohail776@gmail.com",
+        "phone": "9390634592",
+        "location": "Hyderabad",
+        "linkedin": "https://www.linkedin.com/in/-syedsohailahmed/",
+        "github": ""
+      },
+      "summary": "Full-Stack Developer (2023 B.E. graduate) with 1.5 years of production experience across enterprise SaaS, serverless IoT backends, and AI- powered web apps. Proficient in Next.js, React, Tailwind CSS, FastAPI, Python, Node.js, and Flutter. Deployed end-to-end systems on AWS (Lambda, ECS, RDS, DynamoDB) with Terraform- managed infrastructure. Actively building AI-native products; ready to contribute from day one at early-stage startups.",
+      "skills": [
+        "Python",
+        "JavaScript",
+        "TypeScript",
+        "Dart (Flutter)",
+        "React.js",
+        "Next.js",
+        "Tailwind CSS",
+        "Vite",
+        "HTML5",
+        "CSS3",
+        "Flutter",
+        "FastAPI",
+        "Django",
+        "Flask",
+        "Express.js",
+        "Nest.js",
+        "Node.js",
+        "REST APIs",
+        "WebSockets",
+        "AWS (Lambda",
+        "ECS",
+        "EC2",
+        "S3",
+        "RDS",
+        "DynamoDB",
+        "Cognito",
+        "API Gateway)",
+        "Docker",
+        "Kubernetes",
+        "OpenAI API",
+        "LangChain (basics)",
+        "Prompt Engineering",
+        "RAG pipelines",
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB"
+      ],
+      "experience": [
+        {
+          "role": "Full-Stack Developer",
+          "company": "Staffbees Solution",
+          "duration": "March 26- May 26",
+          "description": "\u2022 Designed & shipped an enterprise SaaS dashboard (Next.js + Tailwind CSS) in 3 months \u2014 role-based access,\n\u2022 real-time data views, multi-tenant admin flows.\n\u2022 Built an AI resume generation engine that auto-converts user\n\u2022 data into formatted CV templates, cutting manual effort ~80%.\n\u2022 Engineered an automated interview management\n\u2022 system with Nest.js \u2014 backend-triggered emails, scheduling, and mock-interview session access.\n\u2022 Deployed containerized Nest.js microservices on AWS ECS + ELB; AWS RDS for session and document persistence; Vercel + GitHub Actions for CI/CD.",
+          "technologies": []
+        },
+        {
+          "role": "Backend Developer (Intern)",
+          "company": "Flostat",
+          "duration": "Jan 25-Jan26",
+          "description": "\u2022 Built serverless IoT backend on AWS Lambda + API Gateway + DynamoDB + S3 for real-time water monitoring\n\u2022 processing thousands of sensor events daily.\n\u2022 Developed REST APIs in Python and Node.js; implemented authentication with AWS Cognito; automated deployments via Terraform, Docker, GitHub Actions.",
+          "technologies": []
+        }
+      ],
+      "education": [
+        {
+          "degree": "B.E. in Engineering",
+          "institution": "Osmania University",
+          "year": "Graduated",
+          "grade": null
+        }
+      ],
+      "projects": [
+        {
+          "title": "AI-Powered Codebase Analyzer",
+          "description": "\u2022 Ingests GitHub repos \u2192 auto-generates architecture breakdowns, tech-stack summaries, and Mermaid.js\n\u2022 flowcharts. LLM-powered Q&A for semantic code queries.\n\u2022 Real-time Security & Bug Scanner (risk-severity categorized). FastAPI \u2194 Next.js WebSocket for streaming AI inference updates. Dark- mode premium UI with Markdown export.",
+          "technologies": [
+            "React",
+            "Next.js",
+            "TypeScript",
+            "Tailwind CSS",
+            "Python",
+            "FastAPI",
+            "WebSockets",
+            "LLMs"
+          ],
+          "link": null
+        }
+      ],
+      "certifications": [],
+      "achievements": [],
+      "raw_text": null
+    },
+    "config": {
+      "target_role": "Full-Stack Developer Cloud & DevOps",
+      "experience_level": "Experienced",
+      "difficulty": "Intermediate",
+      "interview_type": "Mixed",
+      "max_questions": 7
+    },
+    "resume_data": {
+      "id": "res-1787153256",
+      "title": "SYED SOHAIL AHMED's Resume",
+      "basics": {
+        "name": "SYED SOHAIL AHMED",
+        "headline": "Full-Stack Developer Cloud & DevOps",
+        "email": "ahmedsyedsohail776@gmail.com",
+        "phone": "9390634592",
+        "location": "Hyderabad",
+        "website": "",
+        "portfolioUrl": "https://syedsohail-123.github.io/portfolio-github/",
+        "linkedin": "https://www.linkedin.com/in/-syedsohailahmed/",
+        "github": "",
+        "photoUrl": "",
+        "summary": "Full-Stack Developer (2023 B.E. graduate) with 1.5 years of production experience across enterprise SaaS, serverless IoT backends, and AI- powered web apps. Proficient in Next.js, React, Tailwind CSS, FastAPI, Python, Node.js, and Flutter. Deployed end-to-end systems on AWS (Lambda, ECS, RDS, DynamoDB) with Terraform- managed infrastructure. Actively building AI-native products; ready to contribute from day one at early-stage startups."
+      },
+      "sections": {
+        "summary": {
+          "id": "summary",
+          "title": "Professional Summary",
+          "type": "custom",
+          "visible": true,
+          "items": []
+        },
+        "experience": {
+          "id": "experience",
+          "title": "Work Experience",
+          "type": "experience",
+          "visible": true,
+          "items": [
+            {
+              "id": "exp-1",
+              "title": "Full-Stack Developer",
+              "subtitle": "Staffbees Solution",
+              "date": "March 26- May 26",
+              "location": "Hyderabad (Onsite)",
+              "description": "\u2022 Designed & shipped an enterprise SaaS dashboard (Next.js + Tailwind CSS) in 3 months \u2014 role-based access,\n\u2022 real-time data views, multi-tenant admin flows.\n\u2022 Built an AI resume generation engine that auto-converts user\n\u2022 data into formatted CV templates, cutting manual effort ~80%.\n\u2022 Engineered an automated interview management\n\u2022 system with Nest.js \u2014 backend-triggered emails, scheduling, and mock-interview session access.\n\u2022 Deployed containerized Nest.js microservices on AWS ECS + ELB; AWS RDS for session and document persistence; Vercel + GitHub Actions for CI/CD."
+            },
+            {
+              "id": "exp-2",
+              "title": "Backend Developer (Intern)",
+              "subtitle": "Flostat",
+              "date": "Jan 25-Jan26",
+              "location": "Remote",
+              "description": "\u2022 Built serverless IoT backend on AWS Lambda + API Gateway + DynamoDB + S3 for real-time water monitoring\n\u2022 processing thousands of sensor events daily.\n\u2022 Developed REST APIs in Python and Node.js; implemented authentication with AWS Cognito; automated deployments via Terraform, Docker, GitHub Actions."
+            }
+          ]
+        },
+        "skills": {
+          "id": "skills",
+          "title": "Technical Skills",
+          "type": "skills",
+          "visible": true,
+          "items": [
+            {
+              "id": "sk-1",
+              "title": "Languages",
+              "tags": [
+                "Python",
+                "JavaScript",
+                "TypeScript",
+                "Dart (Flutter)"
+              ]
+            },
+            {
+              "id": "sk-2",
+              "title": "Frontend",
+              "tags": [
+                "React.js",
+                "Next.js",
+                "Tailwind CSS",
+                "Vite",
+                "HTML5",
+                "CSS3",
+                "Flutter"
+              ]
+            },
+            {
+              "id": "sk-3",
+              "title": "Backend",
+              "tags": [
+                "FastAPI",
+                "Django",
+                "Flask",
+                "Express.js",
+                "Nest.js",
+                "Node.js",
+                "REST APIs",
+                "WebSockets"
+              ]
+            },
+            {
+              "id": "sk-4",
+              "title": "Cloud & DevOps",
+              "tags": [
+                "AWS (Lambda",
+                "ECS",
+                "EC2",
+                "S3",
+                "RDS",
+                "DynamoDB",
+                "Cognito",
+                "API Gateway)",
+                "Docker",
+                "Kubernetes"
+              ]
+            },
+            {
+              "id": "sk-5",
+              "title": "AI / LLM",
+              "tags": [
+                "OpenAI API",
+                "LangChain (basics)",
+                "Prompt Engineering",
+                "RAG pipelines"
+              ]
+            },
+            {
+              "id": "sk-6",
+              "title": "Databases",
+              "tags": [
+                "PostgreSQL",
+                "MySQL",
+                "MongoDB",
+                "DynamoDB"
+              ]
+            }
+          ]
+        },
+        "projects": {
+          "id": "projects",
+          "title": "Key Projects",
+          "type": "projects",
+          "visible": true,
+          "items": [
+            {
+              "id": "proj-1",
+              "title": "AI-Powered Codebase Analyzer",
+              "subtitle": "Personal Project",
+              "date": "Aug 2026",
+              "description": "\u2022 Ingests GitHub repos \u2192 auto-generates architecture breakdowns, tech-stack summaries, and Mermaid.js\n\u2022 flowcharts. LLM-powered Q&A for semantic code queries.\n\u2022 Real-time Security & Bug Scanner (risk-severity categorized). FastAPI \u2194 Next.js WebSocket for streaming AI inference updates. Dark- mode premium UI with Markdown export.",
+              "tags": [
+                "React",
+                "Next.js",
+                "TypeScript",
+                "Tailwind CSS",
+                "Python",
+                "FastAPI",
+                "WebSockets",
+                "LLMs"
+              ]
+            }
+          ]
+        },
+        "education": {
+          "id": "education",
+          "title": "Education",
+          "type": "education",
+          "visible": true,
+          "items": [
+            {
+              "id": "edu-1",
+              "title": "B.E. in Engineering",
+              "subtitle": "Osmania University",
+              "date": "Graduated"
+            }
+          ]
+        },
+        "certifications": {
+          "id": "certifications",
+          "title": "Certifications",
+          "type": "certifications",
+          "visible": true,
+          "items": []
+        }
+      },
+      "metadata": {
+        "colors": {
+          "primary": "#334155",
+          "background": "#ffffff",
+          "text": "#0f172a",
+          "sidebar": "#f1f5f9",
+          "sidebarText": "#0f172a"
+        },
+        "typography": {
+          "headingSize": 14,
+          "bodySize": 10,
+          "fontFamily": "Inter"
+        },
+        "page": {
+          "size": "A4",
+          "sidebarWidth": 30,
+          "hideIcons": false,
+          "hideLinkUnderline": false
+        },
+        "layout": {
+          "sidebar": [
+            "skills",
+            "education",
+            "certifications"
+          ],
+          "main": [
+            "summary",
+            "experience",
+            "projects"
+          ]
+        }
+      }
+    },
+    "created_ts": 1787241506.5789604,
+    "expires_at_ts": 1787242106.5789607,
+    "created_at": "2026-08-20T20:57:20.741852"
+  },
+  "INT-4227-WA": {
+    "access_key": "INT-4227-WA",
+    "profile": {
+      "id": null,
+      "personal_info": {
+        "name": "Test User",
+        "email": null,
+        "phone": null,
+        "location": null,
+        "linkedin": null,
+        "github": null
+      },
+      "summary": "",
+      "skills": [],
+      "experience": [],
+      "education": [],
+      "projects": [],
+      "certifications": [],
+      "achievements": [],
+      "raw_text": null
+    },
+    "config": {
+      "target_role": "Software Engineer",
+      "experience_level": "Mid-Level",
+      "difficulty": "Intermediate",
+      "interview_type": "Mixed",
+      "max_questions": 7
+    },
+    "resume_data": {},
+    "created_ts": 1787241506.5788367,
+    "expires_at_ts": 1787242106.5788367,
+    "created_at": "2026-08-20T21:28:00"
+  },
+  "INT-9999-EX": {
+    "access_key": "INT-9999-EX",
+    "profile": {
+      "id": null,
+      "personal_info": {
+        "name": "Expired User",
+        "email": null,
+        "phone": null,
+        "location": null,
+        "linkedin": null,
+        "github": null
+      },
+      "summary": "",
+      "skills": [],
+      "experience": [],
+      "education": [],
+      "projects": [],
+      "certifications": [],
+      "achievements": [],
+      "raw_text": null
+    },
+    "config": {
+      "target_role": "Software Engineer",
+      "experience_level": "Mid-Level",
+      "difficulty": "Intermediate",
+      "interview_type": "Mixed",
+      "max_questions": 7
+    },
+    "resume_data": {},
+    "created_ts": 1787240806.5788367,
+    "expires_at_ts": 1787241406.5788367,
+    "created_at": "2026-08-20T21:00:00"
+  }
+}

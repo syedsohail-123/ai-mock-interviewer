@@ -1,0 +1,44 @@
+# Secrets & Environment Variables
+.env
+*.env
+*.env.local
+.env.*.local
+
+# Python / Backend
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+env/
+venv/
+.venv/
+.pytest_cache/
+.qodo/
+
+# Node / Web Frontend
+node_modules/
+dist/
+build/
+.npm/
+
+# Flutter / Dart / Mobile
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/ai_application/build/
+/ai_application/android/.gradle/
+/ai_application/android/local.properties
+/ai_application/ios/Flutter/.last_build_id
+/ai_application/ios/Pods/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
